@@ -1,0 +1,92 @@
+BIKRAM SINKEMANA 
+
+MADHYAPUR THIMI | +9779843068157 | v.cnkmn@gmail.com 
+
+ 
+Education 
+2012 – 2016 Bachelor in Computer Engineering 
+Advanced College of Engineering and Management, Kupondole 
+ 
+Programming Languages/Technology 
+Major 
+JAVA, Groovy and Grails, Spring, Hibernate, MySQL, JSP, HTML and CSS, C/C++ 
+Basic 
+Ajax, JavaScript, WordPress 
+ 
+Training Project 
+Project name: BCHAR [webapp] 
+IDE: Intellij IDEA 
+Web Technologies: HTML/CSS/AJAX/JavaScript 
+Programming Language: JAVA 
+Framework: Groovy on Grails 
+Database: MySQL 
+ORM: Hibernate 
+Description: 
+A social networking web application just like Twitter. 
+-  Database Manipulation through GORM. 
+-  Creation of Session after successful login. 
+-  Template with proper header/sidebars/footer/body content.  
+-  Custom Tag to display welcome message according to user 
+-  AJAX implementation for post, follow, unfollow 
+ 
+Project name: Student Survey 
+IDE: Spring Tool Suite(Eclipse) 
+Web Technologies: HTML/CSS/Bootstrap 
+Programming Language: JAVA 
+Framework: Spring 
+Database: MySQL 
+ORM: Hibernate 
+Description: 
+-  ADMIN login page for authorization using JDBC template. 
+-  CRUD operation. 
+-  Spring MVC implementation 
+ 
+ 
+ 
+ 
+
+Project name: Online Phonebook 
+IDE: IntelliJ 
+Programming Languages: HTML/CSS/JavaScript/JSP 
+Database: MySQL 
+Description: 
+-  CRUD operation using JSP and Servlet. 
+-  MVC implementation. 
+-  handling request/response 
+ 
+College Project 
+Major Project 
+Project Name: RaktaSewa [Android App],  
+IDE: Android Studio 
+Programming Language: JAVA 
+Database: Firebase (Google) 
+Description: 
+The project could provide information regarding the blood donor, blood bank, hospital.  
+-  Use of google map to show location of blood bank, hospitals. 
+ 
+Minor Project 
+Project Name: Online Form Submission and Result Publication 
+IDE: Eclipse 
+Web Technologies: HTML/CSS/JavaScript/JSP and Servlet 
+Programming Language: JAVA 
+Database: MySQL  
+Description: 
+The project is a web application designed for the college to collect exam forms online, publish 
+the results and important notices. 
+-  proper use of JDBC 
+- 
+ 
+Training attended 
+Java Web Development at DWIT over the period of 3 month (120 hrs.). 
+ 
+
+JavaScript for form validation 
+
+ 
+ 
+
+ 
+
+ 
+
+

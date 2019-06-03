@@ -1,0 +1,77 @@
+SUMAN MAHARJAN
+Nardevi-18,Kathmandu,Nepal
+
+(+977) 9841752309 sumaniosdv@gmail.com
+
+A self-determined and enthusiastic computer engineer with experience in web 
+development and design. A gamer turned developer looking for nodeJS/Javascript 
+
+internship or Android application development.
+
+SKILLS    
+
+EDUCATION
+
+⦁  ⦁  Data Structures
+⦁  ⦁  Software Development Lifecycle
+⦁  ⦁  Debugging and troubleshooting
+⦁  ⦁  Attention to details
+⦁  ⦁  Quick learner
+⦁  ⦁  Ability to work individually as
+             well as in team
+⦁ 
+⦁ 
+
+IOS development
+
+⦁  C/C++
+⦁ 
+Java
+⦁  MySQL
+⦁  HTML
+⦁  Android Development
+⦁ 
+⦁  Database Design, SQL
+⦁  Windows
+BACHELORS IN  COMPUTER ENGINEERING
+KATHMANDU ENGINEERING COLLEGE , KALIMATI ,KATHMANDU
+2013 –2017
++2 ( Higher Secondary Education Board )
+Trinity International College, Kathmandu, Nepal
+2011 –2013
+School Leaving Certificate (SLC)
+Adarsha Vidhya Mandir, Manbhawan,Lalitpur
+2011
+
+1
+
+PROJECTS
+
+Gpnepal.com (developer) 
+Responsible for developing and maintaining the sit |August 2016-Present
+Developed website that serves as a platform for all the gamers to show off their skills and 
+stories. The site also covers all the clan matches happening in Nepal, along with all the 
+gaming events and international news with association with the top gaming zones of 
+Nepal. It also incorporates the first clan ranking system of Nepal.
+Technologies used:T Technologies used:wordpress
+Sambad (Backend developer/UI developer)
+Created UI for login interface, and php scripting|November 2015-Present
+Developed chat application. It enables users to chat with those who are online in the 
+server. It consists of an authentication screen which after success leads to the text chat 
+environment, which can further switch user to go audio or video mode.
+Technologies used:Android studio, java, php, MySQL database
+Smartphone controlled wifi robot
+Designed and built the robot|July 2015–October 2015
+A simple controller section was created in the android applicatoin and a simple 
+authentication to access the controller.
+Technologies used:Arduino , MySQL
+Weather application
+A simple weather application that provides the weather data. The app is fully based on 
+the Forecast API provided by Dark Sky.
+Technologies used: Android Studio,Java
+
+ACHIEVEMENTS Won dozens of dota 2 tournaments and secured 4th in ESL India Masters.
+
+2
+
+

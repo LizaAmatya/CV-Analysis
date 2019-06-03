@@ -1,0 +1,73 @@
+Kritika Rajbhandari 
+
+Female,22 yrs 
+DOB : 1995/04/01 , 2051/12/18 
+Tangal, Lalitpur, Nepal. 
+Contact : 9841801828 
+E-mail: kritika.rajbhandari01@gmail.com 
+
+ 
+
+ 
+
+Education  
+
+Bachelors in Computer Engineering (Waiting final results) , Kantipur Engineering College, Lalitpur. 
+(2013 – 2017) 
+
+Higher Secondary level (+2) in physical science, United Academy, Lalitpur (2011-2013  ) 
+
+School leaving certificate (SLC) , I.J. Pioneer Higher Secondary School, Lalitpur (2011) 
+
+ 
+
+Work Experience  
+
+May 2015-Jan 2017 Worked as a cloud worker at Cloud Factory, Bhaesipati,Lalitpur 
+
+ 
+
+Programming Languages 
+
+  Major 
+
+Java, HTML , MySQL, C, C++ 
+
+  Basic 
+
+JavaScript, CSS 
+
+ 
+
+ 
+ 
+
+College Projects: 
+
+1.  Project Aider (4th year,7/8th semester)  - To provide a web application repository for project 
+
+collaboration using Java. 
+
+2.  Restaurant Management System (3rd year, 6th semester )- We built a desktop app using 
+
+Java platform which managed the employee records, menus  and calculated bills. The app 
+also showed graph of most sold food items. 
+
+3.  Departmental Billing System ( 2nd year, 3rd semester) -We designed a system for 
+
+calculating the bills for  a supermarket using C++. 
+
+4.  Hotel Management System(1st year, 1st semester) - We designed a system that 
+
+reserved the room and calculated the total bill of the customer using C. 
+
+ 
+
+Training Attended  
+
+1.  Advanced Java Training  (at NIIT Jamal, Kathmandu - 4 weeks) 
+
+2.  Core Java Training ( at NIIT, Jamal, Kathmandu - 4 weeks) 
+3.  Web Designing ( at APTECH, Kumaripati, Lalitpur Oct 28,2011)  
+
+

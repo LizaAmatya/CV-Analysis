@@ -1,0 +1,101 @@
+ 
+Personal Information: 
+ 
+Name: Hari Upreti 
+ 
+Current Address: Maitidevi, Kathmandu 
+ 
+Home Town: Jhapa, Nepal 
+ 
+Cell No.: +977-9817926015 
+ 
+Email Address: hariupreti679@gmail.com 
+ 
+Date-of-Birth: 12-03-1996 
+ 
+Nationality: Nepalese 
+ 
+
+ 
+Career Objective: 
+ 
+The primary goal behind my internship is to become an accomplished Computer Programmer with 
+
+sound Knowledge on multiple programming languages so that I can create efficient and effective 
+
+web applications with a team in the future. I hope to learn from my superiors and seniors so that I 
+
+can gain real-time knowledge in the workplace. I also hope to increase my knowledge base so that I 
+
+can contribute in your company as a professional. 
+
+ 
+ 
+Personal Strength: 
+
+  Communication skills 
+  Eager and Willing to add Knowledge and Skills. 
+  Ability to Work in Harmony with Co-Workers 
+  Determination and Persistence 
+
+ 
+ 
+ 
+Educational Qualification: 
+ 
+Nobel College, Sinamangal Kathmandu  
+2013 – Present, Bachelors of Computer Information Systems  
+ 
+Gomendra Multiple College, Jhapa Nepal  
+HSEB 2010 – 2012, Management with Computer Science along with major mathematics, 
+Passed with the 58%. 
+ 
+ 
+GyanJyoti Higher Secondary School, Jhapa Nepal 
+School Leaving Certificate 2010, Passed with the First Division. 
+ 
+
+ 
+Hobbies & Interests: 
+ 
+I have a keen interest in reading books relating to technology. I also have passion in 
+computer programming. My hobbies are playing cricket and chess, reading newspaper, 
+watching movies like documentaries and biographies, listening to music. 
+ 
+ 
+Key Technical Skills: 
+ 
+Core Java, JSP, Servlets, Data Structures, JavaScript, Bootstrap, HTML, CSS, JQuery, 
+XML, PHP, C, MySQL & PDO. 
+ 
+Tools:  Netbeans  IDE,  Dreamweaver,  Sublime  Text,  Xampp  Server,  Wamp  Server, 
+PHPStorm. 
+ 
+Operating systems: Windows Operating System, Linux Operating System. 
+ 
+ 
+Trainings & Certifications: 
+ 
+Web Development Course from Alfa Beta Institute Pvt. Ltd. Birtamode Jhapa Nepal, 2013  
+
+ 
+
+ 
+Language Proficiency: 
+ 
+Nepali & English 
+ 
+
+ 
+
+Project Developed: 
+ 
+Library Management System 
+https://github.com/web-aadarsh/LibraryManagement 
+ 
+
+ 
+
+ 
+
+

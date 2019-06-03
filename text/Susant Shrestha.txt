@@ -1,0 +1,66 @@
+ 
+
+Susant Lal 
+Shrestha 
+
+___ 
+Skills 
+
+___ 
+Education 
+
+___ 
+Projects 
+
+ ______________________ 
+
+Pepsicola, Kathmandu 
+
+9869374521, 9849447094 
+susantlalshrestha@gmail.com 
+
+______________________ 
+
+Java, Android, RxJava,  Dagger, MVVM, MVP 
+HTML, CSS, Javascript 
+MySQL 
+Bitbucket, Git 
+
+______________________ 
+
+Padmashree Int’l College / Bachelors 
+2013-2016, Tinkune, Kathmandu 
+Faculty - Bachelor in Science of Information Technology.  
+Obtained ​77.56% 
+Greenwich Academy / +2 
+2010-2012, Pepsicola, Kathmandu 
+Field of study - Computer Science, Mathematics, Management, Marketing. 
+Obtained ​62.50% 
+Serene Hill English Secondary School / SLC 
+Passed In 2010, Sankhu, Kathmandu 
+Field of study - Computer Science, Mathematics, Management, Marketing. 
+Obtained ​81.25% 
+
+______________________ 
+
+RestroBytes 
+Made With: Java, Spring, Spring Data JPA, MySQL, Angular, Android 
+My Role: Android Developer 
+
+A software system that enables restaurant to work digitally in modern business 
+environment.It’s intranet base system, means software for a single vendor. get 
+orders from tablet, POS printers on both kitchen and account. 
+ 
+Airline Reservation System 
+Made With: Java, Jsp, Servlet, MySQL 
+My Role: Frontend Developer, Tester 
+
+The web based “Airline Reservation System” is an attempt to stimulate the basic 
+concepts of airline reservation system. This system enables users or customers to 
+view the necessary information about the flights schedule and reserve as per their 
+requirement online. 
+
+ 
+ 
+
+

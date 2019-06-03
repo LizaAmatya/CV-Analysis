@@ -1,0 +1,47 @@
+Umanga Bhatta
+
+Date Of Birth: 29th June 1995
+
+Contact Number- +977-9866332089
+
+Email id- :bhattaumanga@gmail.com
+
+Permanent Address: Anamnagar, Kathmandu, Nepal.
+Professional Summary
+
+Dynamic Graduate in Electronics and Communication Engineering with good knowledge 
+and skillset in software languages (with strong Java knowledge)seeking job as Ruby on 
+Rail Developer. Skill also includes analytical thinking and creative problem solving.
+
+Skills
+
+ Basic Concept of networking.
+ Programming Knowledge: Java, C ,C++.
+ Web Design Knowledge: Basic Concept of HTML.
+ Technologies: Matlab, Notepad, Turbo C/C++, Netbeans, etc.
+ PROJECT WORK AND SPECIFICATIONS:
+
+Inventory Management System using Spring and Hibernate.
+
+ GUI based- Simple Calculator, Text Editor and Login Mechanism in Java.
+
+ Project in “Management Database” In Java.
+ Final Year Project on “Robotic Garbage Collector” using ATMEL Chips.
+
+Training 
+
+Have  completed  “Advanced  Java  Training”  imparted  by  IT  Training  Nepal  over  a 
+duration of 3 months having worked in Spring and Hibernate. 
+
+Education
+
+BE: Electronics and Communication
+Sambhram Institute Of Technology, Bangalore, India.
+.                                                        
+Higher Secondary Level (Plus Two)
+NASA Int’l HSS/College, Tinkune Kathmandu.                          
+
+School Leaving Certificate (SLC)
+Occidental Public School, Anamnagar, Kathmandu.              
+
+

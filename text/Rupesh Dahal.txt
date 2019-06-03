@@ -1,0 +1,240 @@
+RUPESH DAHAL 
+
+Kappan, Kathmandu, Nepal 
+
+9868747997 
+
+Rdahal35@gmail.com 
+
+D.O.B.    08/9/1994 
+
+ 
+
+ 
+
+ 
+
+OBJECTIVE 
+
+To obtain position in leading software company where I can apply my knowledge, 
+
+expertise and skills acquired in order to contribute towards organizations growth and goals, as 
+well as attaining my professional goal.    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ACADEMIC QUALIFICATION: 
+
+ 
+
+ 
+ 
+Degree/Board 
+
+Bsc in Computer 
+Science 
+
+Institution & Address 
+
+year 
+
+Kathmandu University, Dhulikhel,Kavre  2012-2016 
+
++2 in Science 
+
+Kathmandu Model College 
+
+2010-2012 
+
+School Leaving 
+Certificate 
+
+Tulsi Higher Secondary School 
+
+2009-2010 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PROJECTS ACCOMPLISHED: 
+
+  Development of Web Browser named ‘Pyramid’ in Visual Basic Studio.   The main 
+
+feature of this web browser is the music player that we have included in the browser. 
+
+ 
+
+  Development of website named ‘Gegri’ with html and css where we can share music, 
+documents, photos, ect.  We can both upload and download those files shared in the 
+website. 
+ 
+
+  Research in Automatic Temperature management system. We did research on the 
+
+diversity and feasibility of the system in Nepal and created a program to show graph in 
+real time. We used Matplotlib module of python for live graph. 
+ 
+
+  Development of Android Application  named “Attendance”.  As the name says it is a 
+
+application for taking attendance of students, we can register total students, take 
+attendance and the data will be saved in the device. 
+
+ 
+
+  Web Form Design and Verification with Java script for gathering the information about 
+
+students studying in Kathmandu University.  
+
+ 
+
+  SLR Parsing  Algorithm using C Programming Language 
+
+ 
+
+  A car game in Object Oriented Programming(C++) 
+
+ 
+
+  Community project in Charikot, Dolakha for a week. We went to different schools and 
+
+college and collected the information about their knowledge on computers. We also 
+conducted awareness program in schools giving them reason to pursue their career in 
+computer science.   
+
+ 
+
+ 
+
+ 
+
+PROGRAMMING PROFICIENCY : 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  MYSQL 
+  Python 
+
+-Pygames 
+-Matplotlib 
+-Pandas 
+-Pyglet 
+
+  TORA 
+  Mat Lab 
+  C/C++ 
+  HTML/CSS 
+
+ 
+
+ 
+
+ 
+
+COURSE CONCEPT: 
+
+  Compiler Design 
+  Algorithm and Complexity 
+  System Analysis and Design 
+  Object oriented Analysis and Design 
+  Cloud Computing 
+  Database 
+  Operating System 
+  Automata 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+WORK EXPERIENCE: 
+
+  Kathmandu University IT Meet 2014 - Volunteer: 
+
+Kathmandu University organizes IT meet every year. It is a 3 days program where 
+we conducted various competitions like Hackathone, Gaming, exhibition, and 
+many more.  
+
+ 
+
+  Kathmandu University IT Meet 2016 -  Organizer, HR manager: 
+
+As a final year student we got chance to organize IT Meet and my  contribution 
+
+ 
+was HR manager. 
+ 
+
+  Kumari Bank Limited, Putalisadak, Kathmandu-  Intern: 
+
+Worked at Kumari Bank Ltd as an IT intern for three month period from May 
+2016 to August 2016 . Training of banking system and database, customer 
+service, Internet banking etc was some of primary work in the institution.  
+
+ 
+
+  Gadgetbyte Nepal, Dillibazar, Kathmandu: 
+
+Worked at Gagetbyte Nepal from September 2016 to August 2017 . Where I 
+worked as a front hand designer  and also  had to do research on new 
+technology and new devices that are available on market and prepare a report 
+on that research. 
+ 
+
+ 
+
+STRENGTH: 
+
+  Zeal to learn and fast learning 
+  Good operational and programming skill 
+  Good team player 
+  Hard working 
+  Positive attitude  
+
+ 
+
+RFERENCE: 
+
+  Pankaj Dawadi,Lecturer, Department of Computer Science and Engineering, Kathmandu 
+
+University, pdawadi@ku.edu.np 
+
+Date: 5th July 2017 
+
+

@@ -1,0 +1,71 @@
+Rohin Awale 
+MangalBazzar-12, Lalitpur | +977 9813982829 | rohinawale331@gmail.com | https://github.com/AwaleRohin 
+
+TRAINING 
+Python Professional Training 
+Deerwalk Institute of Technology 
+3 months - 19 NOV. 2018 to end by 19 FEB. 
+2019 
+ 
+ 
+EDUCATION 
+ST.  Xavier’s  College,  Maitighar,  Kathmandu 
+— BIM 
+2015 - End by August 2019 
+ 
+MOLIHSS, Kumaripati, Lalitpur —  +2 
+2012-2014 (Distinction) 
+ 
+
+SKILLS 
+
+●  Python 
+●  Django 
+●  Frontend - HTML, CSS, JavaScript, Bootstrap 
+
+(basics) 
+
+●  SQL(basics) 
+●  PHP | Laravel 
+
+ 
+
+ 
+
+ 
+
+PROJECTS COMPLETED 
+ 
+
+1.  Student Management System: SMS (Django) 
+
+Simple student management system that allows teachers to upload assignments and students can view 
+their assignment respective of their course. 
+https://github.com/AwaleRohin/SMS 
+ 
+
+2.  Student Performance Data Analysis (Python - Pandas) 
+
+Data  analysis  of  Student  Performance  with  data  cleaning,  visualizations,  hypothesis  and  different 
+predictions. For more feature details check project on GitHub. 
+https://github.com/AwaleRohin/StudentPerformance-DataHw 
+ 
+
+3.  RentMyRoom: Online room rental (PHP- Laravel) 
+
+This is a web-app for online room search and rental service. For more feature details check project on 
+GitHub. 
+https://github.com/AwaleRohin/RentMyRoom 
+
+4.  Blog Post (Django)  
+
+Basic crude application for blogs along with categories and middleware to allow only the authorized 
+user to perform any operations. For more feature details check project on GitHub. 
+https://github.com/AwaleRohin/BlogPosts 
+
+ 
+
+ 
+ 
+
+

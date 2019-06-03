@@ -1,0 +1,60 @@
+Prashant Dahal
+Shantinagar, Kathmandu
+9843456287 | prashantdah41@gmail.com
+
+CAREER OBJECTIVE
+.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+To work in a dynamic professional environment with a growing organization and utilize my 
+creativity and  innovative thinking for the benefit of the organization and myself. 
+
+EDUCATION
+.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+Bsc Computer Science and Information Technology, Tribhuwan University
+2071 B.S – Running (8th SEM)
+This undergraduate program is comprised with advanced study of High-level programming, 
+Database, algorithms, computer graphics,  web technologies, microprocessor, theory of 
+computation, Networking and core computer science concepts. It involves students in doing 
+several extracurricular and academic projects.
+
+Higher Secondary Level (+2 Science), New Summit College, Old Baneshwor
+2069 B.S – 2071 B.S (First Division)
+
+SLC, KMC School, New Baneshwor
+2068 B.S (First Division)
+
+SKILLS
+.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+  
+
+Javascript
+PHP
+
+• HTML/CSS
+•
+•
+• MySQL
+• C/C++
+•
+
+Java
+
+PROJECT
+.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+
+Gallery Application
+This application is developed using object-oriented PHP and MySQL as the database. Here, public 
+users can view photos and write comments while, admin users can add or remove photos and 
+comments. The system keeps log about the user login and when new photo is added. It also features 
+pagination and PHPMailer which email the admin when new comment has been added.
+
+  
+Inventory Management System
+This system is a group project developed using procedural PHP and MySQL as a database. The 
+user could log into the system and perform several CRUD operations. This project made use of 
+several available third-party tools.  
+
+ 
+
+

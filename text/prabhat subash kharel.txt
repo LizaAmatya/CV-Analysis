@@ -1,0 +1,398 @@
+ 
+
+  
+
+  
+
+Prabhat Subash Kharel 
+
+  
+
+  
+
+  
+ 
+
+  
+
+  
+
+  
+
+ 
+
+  
+
+ 
+
+  
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+About Me 
+
+ 
+
+ 
+
+ 
+
+Computer Engineer 
+
+Fresher  
+
+October 26, 1993 
+
+Kalanki, Kathmandu 
+
++977.9846651486 
+
+kharelsubash@outlook.com 
+
+https://www.linkedin.com/in/kharelsubash 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  A Computer Engineer from Institute of Engineering, Pashchimanchal Campus, Pokhara-16 having knowledge of web 
+
+ 
+
+development and Object Oriented Programming. 
+ Worked as a member of Robotic Club, Pashchimanchal Campus for enhancing technical education where I did 
+different project on Arduino, and Raspberry Pi and organized different technical competition and seminar in campus 
+for junior students. 
+
+  Result oriented, highly motivated and hungry to learn new technologies, methodologies, strategies and processes. 
+
+Education 
+
+SLC (School Leaving Certificate)  
+
+New Horizon English Boarding School 
+Nepal Government 
+kalikanagar, Butwal 
+Nepal 
+ 
+
+ 
+
+12th,  
+
+GoldenGate International College, 
+HSEB 
+Battisputali, Kathmandu 
+Nepal 
+ 
+
+ 
+
+Bachelor in Computer Engineering,  
+
+Institute of Engineering, Pashchimanchal Campus 
+Tribhuwan University 
+Lamachour, Pokhara 
+Nepal 
+ 
+
+ 
+
+Skills 
+
+ 
+
+ 
+
+Graduated, June 2010  
+Marks 83.625%  
+Division I 
+
+ 
+
+Graduated, July 2012  
+Marks 73.2%  
+Division I 
+
+ 
+
+Graduated, December 2010  
+Marks 70% 
+Division I 
+
+ 
+
+Programming Languages: C, C++, HTML, CSS, JAVA and PHP 
+Tools & Technologies: Adobe Photoshop, Microsoft Office (PowerPoint, Word, Excel) 
+
+ 
+ 
+  Others: Object Oriented Programming, UML, Data Mining, GIS 
+  Databases: MySQL 
+ 
+
+Team oriented and results driven. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+  
+
+  
+
+ 
+
+  
+
+  
+
+ 
+
+Professional Qualifications and Affiliations 
+
+ 
+
+  Great time management skill 
+  Quick learner with good grasping ability 
+ 
+  Action-oriented and result-focused 
+
+Lead & work as a team in an organized way 
+
+Work Experience 
+
+ 
+
+January 2013 - December 2016  
+
+ 
+
+Core Member  
+WRC Robotic Club 
+Lamachour,Pokhara  
+Nepal  
+
+Worked as a member of Robotic Club, Pashchimanchal Campus for enhancing technical education where I did different 
+project on Arduino, and Raspberry Pi and organized different technical competition and seminar in campus for junior 
+students.Organized Website Competition and Typing Competition in Campus. 
+ 
+
+ 
+
+ 
+
+Languages 
+
+ 
+English       
+  Nepali       
+  Hindi       
+
+ 
+
+ 
+
+ 
+
+Interests 
+
+  Reading, traveling, hiking, watching movies 
+ 
+
+Educational Development 
+
+ 
+
+Personal 
+
+Father’s Name: 
+Birthday: 
+Gender: 
+
+ 
+
+Thaneshwor Kharel 
+October 26, 1993 
+Male 
+
+Address: 
+
+Kalanki, Kathmandu 
+Butwal -18, Semlar 
+Kalanki, Kathmandu 
+NP 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+Sports, Outdoors and Fishing 
+Interest on Technology 
+
+Marital Status: 
+Nationality: 
+ 
+
+Single 
+Nepal 
+ 
+
+ 
+
+  
+Declaration 
+
+I, Prabhat Subash Kharel, hereby declare that the information contained herein is true and correct to the best of my knowledge and belief. 
+  
+
+ 
+
+  
+
+ 
+
+Prabhat Subash Kharel                                                   Kalanki, Kathmandu 
+
+ 
+
+  
+
+ 
+
+Prabhat Subash Kharel 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+ 
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
++977.9846651486 
+
+kharelsubash@outlook.com 
+
+Kalanki, Kathmandu 
+
+https://www.linkedin.com/in/kharelsubash 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Artificial Intelligence Virtual Assistance for Organization 
+December 2015 - August 2016 
+ 
+
+ 
+
+ 
+
+ 
+Projects 
+
+ 
+
+Project 1 
+Period: 
+ 
+
+This system simplifies Day to Day operation of a different organization which enables customer to gain information about that 
+organization in a virtual chat (Human to Machine conversation). Using this system, organization will have ability to provide 
+customer information during 24 hours and it not only answer questions – it also tries to hold a conversation, to manage dialogues 
+which is an efficient way to provide information. 
+ 
+
+ 
+
+Project 2 
+Period: 
+ 
+
+Online Examination System 
+March 2015 - June 2015 
+ 
+
+This system simplifies giving exam in any college, school or any institute. This system is especially designed for teacher to create an 
+online exam paper. Using this System any organizations can easily check the performance of the student and its advantage are 
+speed and accuracy. 
+ 
+
+ 
+
+Project 3 
+Period: 
+ 
+
+Anti Smoking and Alcoholic Tracking Device 
+January 2015 - February 2015 
+ 
+
+The prototype device is developed for tracking smoking and drinking alcohol in restricted areas. The device was focus to develop 
+for hotel, restaurant and lodge for non-smoking and drinking zone. The MQ303A alcohol sensor, JY MCU Bluetooth Module and 
+smoking sensor was used and the notification was send to android mobile if track of alcohol and smoke was found in air. 
+ 
+
+ 
+
+

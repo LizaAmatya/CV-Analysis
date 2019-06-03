@@ -1,0 +1,159 @@
+ 
+  Ayush Shrestha 
+
+ 
+
+ 
+
+ 
+
+      DOB:   7 - December - 1992 
+
+ GitHub:    github.com/PolyMorpher01 
+
+                  
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+Bachelor of Computer Application (BCA), Pokhara University, Nepal 
+Final Grade: 3.93/4 
+Major Subjects Studied: C Programming, Object Oriented    
+Programming, Software Engineering, Data Structures, Intro to Java  
+Programming, Web Technologies, Intro to Linux/UNIX, Intro to Mobile 
+Application Development 
+Year of Completion: 2017 
+
+PERSONAL DATA 
+ 
+ 
+             Phone:   +977- 9841410034 
+          Address:   Tahachal, Kathmandu, Nepal 
+              Email:    ayushshta@gmail.com 
+ 
+ 
+ 
+EDUCATION 
+ 
+           Graduation    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Senior Secondary   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROJECTS 
+ 
+Final Year Major Project 
+Project Title: Library Management System 
+ 
+Language Used: C#.NET 
+Description: The Library Management System is an application for assisting a librarian in 
+managing a book library in an academic library. It allows two access methods – Admin access and 
+Librarian access. Admin access can manage user, student, and staff entries. Whereas, Librarian 
+
+HSEB, Caribbean H.S. School, Lalitpur, Nepal 
+Final Grade: 6.3/10 
+Major Subject Studied: Science 
+
+Mid-Western Regional Police Boarding High School, Dang, Nepal 
+Final Grade: 8.1/10 
+
+ 
+ 
+
+ 
+ 
+
+Secondary 
+ 
+
+ 
+
+ 
+ 
+
+access can manage books entries, and issuing of books. Report module is also included in the 
+System. Both the admin and librarian is able to generate different kinds of reports like lists of 
+students registered, list of books, issue and return reports. 
+ 
+ 
+Minor Project 
+Project Title: Bank Information System 
+  
+Language Used: VB.NET 
+Description: The computerized bank information system is software developed in VB.NET 
+programming language which is designed to handle the basic operations in a bank for maintaining 
+a person’s account. This project has been developed to carry out the processes easily and quickly, 
+which is not possible with manual systems. It allows two access methods – Admin access and 
+Staff access. 
+ 
+ 
+Currently Working Project 
+Project: A website based on ASP.Net Web API that is used to handle different types of CRUD 
+operations. 
+ 
+Languages Used: ASP.NET, Knockout JS, HTML, CSS 
+Description: Working as a developer whose responsibilities include creating web APIs, creating 
+controllers, models, and views for different pages, and writing JS scripts with KnockoutJS 
+framework. 
+ 
+ 
+Work Experience 
+ 
+Junior Software Developer (January 2018 – Present) 
+Divya Technologies Pvt. Ltd.,Teku, Kathmandu 
+
+  Created Web APIs using ASP.Net 
+  Created controllers, models, and views for different pages 
+  Wrote JS scripts with KnockoutJS framework 
+  Participated in meetings and discussions through different stages of the project 
+
+development process 
+ 
+ 
+
+Skills 
+ 
+Basic knowledge of OOP concepts, C#, JavaScript, KnockoutJS, HTML, CSS, Bootstrap, PHP, 
+Java, Android development. 
+
+Honors and Awards 
+ 
+
+  OCEM Gold Medal for securing University 1st position in Bachelors of Computer Application 
+
+(BCA) of the Batch (2013-2017). 
+
+ 
+REFERENCES 
+ 
+Will be furnished upon request. 
+
+

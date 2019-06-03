@@ -1,0 +1,73 @@
+Ganesh Khadka 
+
+Kapan, Kathmandu | +977-9849732097 | ganesadmirer@gmail.com 
+
+Education  
+Bachelor’s in Computer Engineering 
+Advanced College Of Engineering & Management  
+Kupandole, Lalitpur, Tribhuvan University  
+
++2 Science  
+National Integrated College   
+Dellibazar, Kathmandu, HSEB  
+ 
+
+Programming Language/Technology 
+Major:  Java, Spring, JSP, Groovy and Grails, MySQL, Swing 
+Basic:  HTML, CSS, JavaScript, Bootstrap, W3.CSS, AJAX, WordPress 
+ 
+
+ 
+[2012-2016] 
+
+ 
+[2010-2012] 
+
+Projects 
+College Projects 
+Major Project 
+Name: Digital Signage System 
+Toolkit: Java Swing(NetBeans) 
+Framework: vlcj 
+ 
+Description: The main idea is to replace the conventional signage type with more dynamic system (simply 
+digital version of hoarding board). Multiple user system with their own identity and content to show.   
+
+Minor Project 
+Project Name: Pharmacy Management System   
+Toolkit: Swing (NetBeans)   
+ 
+Description: The system can manage inventory and helps to carry out transactions.  
+It had 2 Module:  -POS system & Inventory Management Sections. 
+ 
+Commercial Projects 
+A WordPress project 
+Domain: KCC-qatar.com 
+CMS: WordPress 
+ 
+Description: A website for an outsourcing company based in Qatar.  
+
+Personal Projects 
+1. Project Name: AlmostTwitter  
+IDE: IntelliJ   
+Programming Languages: HTML/CSS/AJAX/JavaScript   
+Framework: Groovy on Grails   
+ 
+Description: Social media project basically like twitter.    
+
+ 
+2. Project Name: Online Phonebook 
+IDE: IntelliJ Web  
+Programming Languages: JSP/HTML/CSS/JavaScript   
+Library: common-io, jstl   
+ 
+Description:  The  main  objective  of  this  project  was  to  understand  the  flow  of  Model  View  Controller 
+(MVC) handling of request/response and data transfer through post/get method. 
+ 
+
+Trainings Acquired  
+-Trainee at DWIT for Java Web development over the course of 3 month. 
+
+Page 2 
+
+

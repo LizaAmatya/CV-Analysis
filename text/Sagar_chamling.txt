@@ -1,0 +1,145 @@
+Kaushaltar, Bhaktapur 
++977-9842285075 
+https://schamling.com.np 
+ https://www.linkedin.com/in/cham11ng/ 
+sgr.raee@gmail.com 
+
+SAGAR CHAMLING 
+
+PERSONAL PROFILE  
+
+Date of Birth: 1994, July 25th 
+
+Permanent Address: Dharan 17, Sunsari 
+
+Language: Nepali(Native), English(Good) 
+
+I  am  passionate,  highly  motivated  and  hardworking  person.  Learning  and 
+training  myself  is  my  one  major  motivational  factor.    My  honesty,  confidence, 
+diligence  and  determination  to  do  best  are  my  strong  strength.  I  am  a  quick 
+learner and try to utilize my technical knowledge with maximum effort.  
+
+I  am  a  Technical  Enthusiast.    I  go  through  web  published  articles  to  learn  and 
+adapt new technologies which improves productivity and efficiency. I believe in 
+clean and clear code following good practices/standards understanding the core 
+philosophies behind them which makes code more readable and maintainable. 
+
+I’ve been developing web applications since several years, professionally couple 
+of  year  which  include  back-end  (PHP)  also  sound  in  designing.  I've  also  done 
+academic project based on Data Mining and Image Processing. 
+
+TECHNICAL SKILLS  
+
+Programming: C, C++, HTML, CSS, JS, PHP, Python, Android 
+
+PHP Framework: Codeigniter 3, Laravel (5.2>) 
+
+Familiar  with:  Web  technologies,  Nginx,  Apache,  MySQL,  Postgres,  Git,  AJAX, 
+Sass, Vue.js, Axios, RESTful API, jQuery, Package Manager (npm, Composer, PIP) 
+
+Basic Knowledge: Cloud and VPS technologies, Service Repository Pattern, Agile 
+methodology. 
+
+Operating System: Linux (Ubuntu), Windows 
+
+EXPERIENCES  
+
+2017 May-Now: DoranSoft Pvt. Ltd., Sankhamul 
+
+Web Application Developer in Laravel. 
+
+ 
+
+2016-2017 May: Technorio Inc. Pvt. Ltd., Sankhamul, Baneshwor 
+
+Lead Developer in Laravel, Technical Manager.  
+
+I’ve  contributed  in  several  Laravel  projects  from  Zero  to  Deploy.  Alongside 
+developing, I had also guided interns in following good practices in developing 
+projects and use web technologies. 
+
+  
+EDUCATION & 
+TRAINING 
+
+2012 - 2016: Bachelor in Computer Engineering 
+
+Kantipur Engineering College (TU), Dhapakhel 
+
+2010-2012: Computer Science 
+
+Orchid Public Higher Secondary School (HSEB), Biratnagar 
+
+2010-2012: Computer and Optional Mathematics (Optional Subjects) 
+
+Gems International Secondary Boarding School (SLC), Biratnagar 
+
+2016: Course on Android Development 
+
+2013/14: Course on HTML, CSS & JavaScript and PHP, MySQL 
+
+PROJECTS  
+
+•  Multi-tenant System- (PHP/Laravel, Postgres) 
+
+–  Software-as-a-Service each tenant having individual sub-domain. 
+
+•  Management Information System 
+
+–  Its information system for managing dynamic projects. 
+
+•  Multi-level Marketing- (PHP/Laravel) 
+
+– Its network marketing application based on nested-set tree. 
+
+• 
+
+“bMAX - Health Assistant”- (Java, PHP, Android) 
+
+– An application for diagnosing health of the user based on Naive Bayes.  
+
+• 
+
+“Facial Expression Recognition”- (MATLAB, Java) 
+
+–  An application that recognize the facial expression based on Viola-Jones 
+Face Detection/Pattern Comparison. 
+
+• 
+
+“Reader’s Network”- (PHP, MySQL) 
+
+–  It is a social networking application to explore books (database project). 
+
+ 
+COMMUNICATION & 
+LEADERSHIP 
+
+I  am  good  at  communication,  a  team  player  and  also  a  good  listener.  I  don’t 
+hesitate  with  people  around  me  to  start  conversation  and  to  create  a  friendly 
+bond. I have also good experiences working with the team. 
+
+ADDITIONAL 
+INTERESTS 
+
+ Besides my programming interest, I have a passion in singing and dancing. I love 
+playing  basketball,  football  and  have  participated  in  table  tennis,  quiz 
+competitions. 
+
+REFERENCES  
+
+KANTIPUR ENGINEERING COLLEGE 
+
+Dhapakhel, Lalitpur (www.kec.edu.np) 
+
++977-1-5571004/5 
+
+NIDESH MAN SINGH MASKEY, EXECUTIVE DIRECTOR 
+
+Technorio Inc. Pvt. Ltd., Sankhamul 
+
++977-9801115055 
+
+ 
+
+

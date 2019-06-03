@@ -1,0 +1,79 @@
+CV SHANKAR GHIMIRE
+
+PERSONAL DETAIL
+
+Name:                 Shankar Ghimire
+
+Date Of Birth: 16th may 1997
+
+Address:
+
+Dhapakhel-24, Lalitpur
+
+Mobile:
+
+E-mail:
+
+9843783799
+
+coder.shankar@gmail.com
+
+EDUCATION
+
+2071-present
+
+Patan Multiple Campus, Lalitpur
+
+ Bachelor in computer science and information technology (BSC. CSIT)
+ Currently 7th semester
+
+
+Percentage 80.5
+
+2068-2071
+
+NIMS College, Lalitpur
+
+Intermediate level in science (computer science (major))
+
+
+ Average percentage 75.6(Distinction)
+
+2059.2068 Bagh Bhirab higher secondary school,Lalitpur
+
+ Basic school level education
+
+SKILL
+                             Software skill:
+
+ Core java and Spring MVC
+ Relational Database design using MySQL
+ Knowledge of Git version control system
+
+ Adobe Photoshop and Dreamweaver
+Programming language php, C++, C
+
+ MS Office package
+
+JavaScript language
+
+Project:
+
+             
+
+ E-commerce website development 
+
+Website is developed by using HTML, CSS, Bootstrap at the front and PHP and 
+MySQL database at backend.
+   
+
+ Android Application
+
+Crypto calculator is my first android app which perform all cryptographic 
+calculation.
+
+INTEREST & EXTRA INFORMATION
+Interested in photography and web development.
+Hobbies includes reading books, photo editing, music.
+
+

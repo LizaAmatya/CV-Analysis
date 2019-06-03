@@ -1,0 +1,101 @@
+Suraj Shrestha 
+
+Tokha | 9861492928 suraj.stha9849@gmail.com 
+
+ 
+
+Objective: 
+
+To work as a trainee, develop skill and help in growth of organization. 
+
+ 
+
+Education: 
+
+2013-2017  Computer  Engineering 
+
+,  Advanced  College  of  Engineering  and 
+
+Management, Kupondole 
+
+2010-2011 Higher Secondary, Siddhartha Banasthali Campus, Banasthali, Kathmandu 
+
+2009 High School, Amar English Ma Vi, Tokha 
+
+Programming Languages: 
+
+Major 
+
+Python, MySql, C ,C++ 
+
+Basic 
+
+Java, Android Studio, wordpress, php 
+
+ 
+
+College Projects: 
+
+1. Automated  Attendance  System  Using  Image  Processing,  semester  VII  and  VIII- 
+
+This  project  focuses  on  making  attendance  system  automatic.  At  first  we  create 
+
+data-set and then images are combined in numpy array. CC camera detects the faces 
+
+and  compares  with  the  data-set.  Then  attendance  of  the  present  students  are  done 
+
+automatically.  We  have  also  updated  this  system  to  make  security  system  which 
+
+captures the clip(with time and date) of intruder and starts alarm.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Programming language: Python 
+
+Platform: Ubuntu Linux 
+
+ 
+
+2. Smart  Traffic  Checking  System,  semester  VI-  This  project’s  main  target  is  to 
+
+upgrade the tradition Traffic checking system. Using this android application, Traffic 
+
+police can access all the details of the vehicle(including tax payment status) and driver. 
+
+Then he/she can mark the fine in database without any physical bills. The person who 
+
+is fined can use website to check amount to be paid, reason for fine and deadline for 
+
+paying and can also check details about vehicles tax. 
+
+Bike lost/found status increases chances of finding lost bike. 
+
+Programming language:Java(android studio), php(for website) 
+
+Platform: Android 
+
+ 
+
+Courses Attended 
+
+1.  Java ,Advanced College of Engineering and Management, Kupondole(package 1) 
+
+2.  Python ,Advanced College of Engineering and Management, Kupondole 
+
+(Package 2) 
+
+3.  Android  studio 
+
+,Advanced  College  of  Engineering  and  Management, 
+
+Kupondole(Package 3) 
+
+ 
+
+

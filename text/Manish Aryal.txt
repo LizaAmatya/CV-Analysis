@@ -1,0 +1,79 @@
+Manish Aryal
+Kalankisthan-14
+Kathmandu, Nepal
++977-9841610358
+
+aryalmanish007@gmail.com
+
+EDUCATION:
+
+Amar Jyoti Higher Secondary School
+Kalankisthan-14, Kathmandu, Nepal
+S.L.C.
+
+Viswa Niketan Higher Secondary School
+Tripureswor, Kathmandu, Nepal
+HSEB
+
+IOE, Pulchowk Campus
+Lalitpur, Nepal
+Bachelor's in Computer Engineering
+Tribhuvan University
+
+SKILLS:
+
+Languages: C/C++, Java, PHP
+PHP's MVC Frameworks: (CodeIgniter, Laravel) 
+Database: MYSQL
+Familiar with: Javascript, JSON, HTML
+Sound Experience in: CSS, AJAX, JQuery
+Operating System:  Windows, Linux (Ubuntu )
+
+PROJECTS:
+
+Twitter Sentiment Analysis and News Classification (Major Project of Fourth 
+/Final Year):
+An application for displaying categories of tweets if they are good, bad, or neutral news. 
+These tweets are news from twitter account of numbers of verified newspapers. And tweets 
+are extracted through special keyword that are input by user. The filtration of training sets 
+and extracted data is done through the concept of  Natural Language Processing and the 
+classification of news is done through the concept of Machine learning algorithms (Naive 
+Bayes and K-Nearest Neighbour).
+
+The application can be run with two ways. It was written in JAVA and normally run through 
+command line. On the other way, through the directory of project and command-line's 
+command, command-line user interface is done in Web in PHP language. And, the addition 
+of CSS to make web-page look good. 
+
+Online Shopping Website (Minor Project of Third Year):
+A Fashion store for different varieties of clothing line.
+Backend Language: PHP, Database: MySQL
+Frontend: CSS, Bootstrap
+MVC: CodeIgniter Framework
+Collaborative filtering is used for recommendation System.
+
+Car( Computer Graphics Project):
+3D manipulation of a Car.
+Language: C++, Graphics Library: SDL
+
+KillZombies (Second Year Project of Object Oriented Programming [C++])
+Numbers of cards have image of different type and shape of zombies. Image of Zombies are
+hidden by backside of their corresponding card. By folding the card, it shows the image of 
+its zombie. The game is played by comparing two images of zombies, if they are matched; 
+those two cards will be vanished otherwise they remain same. The game is finished after all 
+cards are vanished.
+Programming Language: C++, External Libary: OpenGL
+
+Calculator (First Year Project on C Programming)
+A Windows Utility based Application that performs simple mathematical operation. Input 
+numbers are passed by clicking on the button in their digit inside the Windows.  
+ Worked on expression parsing in C.
+
+Activities Involvement:
+
+LOCUS-IOE (Technical Festival)
+Participated for the project defense at the software-project competition by defending the 
+Final-Year Major Project which was around  ~91% completed at that time by pitching to the
+visitors how the project runs in Summer of Final Semester.
+
+

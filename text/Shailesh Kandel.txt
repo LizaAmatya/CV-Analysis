@@ -1,0 +1,126 @@
+Shailesh Kandel
+Computer Engineer(8th sem)
+
+shaileshkandel123@gmail.com
+
+9867784128
+
+Sainamaina, Rupandehi, Nepal
+
+quora.com/proﬁle/Shailesh-Kandel
+
+facebook.com/shivramkri
+
+stackoverﬂow.com/users/4302501/shailesh-kandel
+
+I am currently looking for a position that would allow me to create new software and apps with my innovative ideas. I would like to use
+my experience to produce creative software that is competitive in the market and would beneﬁt the organization.
+
+WORK EXPERIENCE
+
+Coordinator
+C-programming Seminar
+
+EDUCATION
+
+S.L.C. (Nepal Government Board)
+Nava Prabhat English Boarding School
+2068
+
++2 Science (HSEB Board)
+Tilottama Campus
+2069 – 2070
+
+Bachelor in Computer
+Engineering(Tribhuwan University)
+Central Campus Pulchowk
+2071 – Present
+
+88.75%
+
+81.1%
+
+SKILLS
+
+Python
+
+C++
+
+C
+
+HTML
+
+CSS
+
+JAVASCRIPT
+
+AJAX
+
+PHP
+
+Blender
+
+PERSONAL PROJECTS
+
+Image Steganography with Facial Recognition (Minor
+project and A.I. project)
+
+In this project, we have implemented the LSB method of Image
+Steganography where we used the Image to hide the message
+that need to be sent. Once the receiver receives the image, face
+recognition is done to verify whether he is the legitimate
+receiver or not. If legitimate then receiver will be able the view
+the message else not.
+
+Secret Messaging through Image Steganography and
+Face Recognition
+
+This is the extended version of our Minor Project where we have
+added the real-time chat system which help the users from all
+over the world to communicate .
+
+Snake Ladder Game ( C++ project)
+
+Multi-player game developed using SDL. There consists of many
+ladders and snakes in the game where ladders play the role of
+uplifting and snakes play the role opposite of that. To make this
+game happen. there is a need of dice which is rolled up.
+
+School Management System (Software Engineering
+and DBMS Project)
+
+SMS is web-based project which has been designed to transform
+paper-based record keeping system to the realm of online
+storage. We have provided the facility of Fee Management,
+Attendance Management,Exam-Routine ,Time-Table Generator,
+Notice Management with the very good UI.
+
+Home automaton (Instrumentation project)
+
+We have developed the mobile application which can be used to
+control all the appliances which has been connected to the
+system and for this we have worked with Bluetooth Technology.
+
+INTERESTS
+
+Programming
+
+Artiﬁcial Intelligence
+
+Travelling
+
+Spirituality
+
+Ethical Hacking
+
+Image Processing
+
+Networking
+
+Puzzles
+
+Reading
+
+Football
+
+

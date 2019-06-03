@@ -1,0 +1,37 @@
+Aakash Bhusal
+Student
+Nationality: Nepali
+City: Kathmandu
+Phone Number: 9860689749
+Sex: Male
+Marital Status: Single
+Address: Maharajgunj, Kathmandu
+
+ Born on: 09/16/1996
+Country: Nepal
+Email: abhusal7@gmail.com
+
+Education
+
+january 2014 - january 2018
+Kantipur Engineering College
+
+Dhapakhel
+Bachelor on Computer Engineering
+
+I learned languages like C and C++ through courses of my college. Training on core java also helped me to know
+the basics of Java and laid the foundation to learn more
+
+Language Skills
+English
+
+Technical Skills
+mysql, html, css
+Core Java
+C
+
+Java
+I know the basics of java. i recently completed a training on core java as well. I am very interested on java and
+want to progress on it to the highest level.
+
+

@@ -1,0 +1,100 @@
+Shashwot Risal
+Computer Engineer
+Hard-working student with proven leadership and minute attention to details. Growing in learning as an
+individual in return assisting and helping the company where I shall be working. Looking for a career which
+demands the best of my ability in terms of, technical and analytical skills. Correlate my theoretical
+knowledge with practical knowledge and broadening and enhancing my current skills and knowledge.
+
+shashwot@gmail.com
+
++9779841756828, +97714410069
+
+Gandhari Margh, Maharajgunj, Kathmandu, Nepal
+
+29 June, 1995
+
+linkedin.com/in/shashwot-risal
+
+facebook.com/shashwotrisal
+
+EDUCATION
+Bachelors in Computer Engineering
+Kathmandu Engineering College (KEC)
+2018
+
+SKILLS
+
+Cisco Certiﬁed Network Associate (CCNA)
+
+First Division
+
+Basic And Advance Java
+
+C Programming
+
+High School
+GEMS Institute of Higher Education (GIHE)
+2013
+
+First Division
+
+SLC
+Graded English Medium School (GEMS)
+2011
+
+First Division With Distinction
+
+PERSONAL PROJECTS
+Minor Project
+
+LetsChat is an online chatting forum that can be used as a common
+forum between known people. This lets the users stay safe and
+anonymous among the people they choose to converse with. This
+arises the question for real identity of the user that makes the chat
+interesting and keeps it going. So, it can be used for both public and
+private chat. File sharing feature that was implemented in the
+application can be used to share ﬁles.
+
+Major Project
+
+Face Detection and Recognition is a system to identify a criminal using
+facial recognition in public spaces. It is a software that uses Local
+Binary Pattern approach for face recognition and MySQL database for
+generating the evaluation. Local Binary Pattern is combined with
+histogram to improve the detection performance. Algorithm was
+trained with the facial images of criminals we want to recognize. The
+algorithm will use this information to recognize an input image and
+give an output.
+
+C++ Programming
+
+Arduino Programming Language
+
+Microprocessor Assembly Language
+
+Microsoft Oﬃce
+
+Packages: MATLAB, Cisco Packet Tracer, GNS3, NetBeans
+
+Operating Systems: Windows, Linux, Windows Server
+
+SUBJECT SKILLS
+Computer Network
+
+Internet And Intranet
+
+Information System
+
+Digital Signal Analysis And Processing
+
+Data Communication
+
+SOFT SKILLS
+Adaptability, Creativity, Leadership, Communication,
+Strong work ethics, Critical thinking , Self-conﬁdence
+
+INTERESTS
+Football, Cricket, Extra Curriculum Activities,
+Photography, Bodybuilding, Travelling
+
+

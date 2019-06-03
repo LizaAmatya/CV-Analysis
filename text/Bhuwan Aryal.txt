@@ -1,0 +1,55 @@
+Bhuwan Aryal 
+Balaju, Kathmandu 
++977 9860401876 
+Linkedin: ​Bhuwan Aryal 
+ 
+Career Objective:  
+        ​To work in the field of data science where I can use my data skills and 
+experience to make data driven decisions for companies. 
+ 
+Summary of Qualifications: 
+
+● Proficient in Python and data science libraries like numpy, pandas, 
+
+scikit-learn, matplotlib. 
+
+● Experience with deep learning libraries like Pytorch, Tensorflow, Keras, fast.ai 
+● Familiar with database languages (SQL) and web technologies ( HTML5, 
+
+CSS3, Javascript, Django). 
+
+ 
+Education: 
+Golden Gate International College 
+
+● +2 Science​, ​Graduated April 2016 
+● Vice-president of Golden Gate Science and Technology Club (2016). 
+
+● Bachelor's Degree in Computer Science and Information Technology 
+● Enrolled October 2016. 
+
+● Completed deep learning specialization offered through Coursera. 
+● Accomplished data scientist career track through Datacamp. 
+● Recipient of Pytorch scholarship offered by Facebook through Udacity. 
+
+  
+Amrit Science Campus 
+
+ 
+Certifications: 
+
+ 
+Projects: 
+
+● Flower Image Classifier: 
+
+Built an flower image classifier that can predict classes of flower(with 102 labels) with 
+97% test accuracy. 
+
+● Devanagari Handwritten data classifier with 96% validation 
+
+accuracy. 
+
+ 
+
+

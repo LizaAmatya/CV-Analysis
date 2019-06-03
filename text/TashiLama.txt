@@ -1,0 +1,128 @@
+TASHI LAMA 
+Boudha Kumarigal-7, Kathmandu | 9860910219 | tacmoktan@gmail.com  
+
+ 
+Academic Qualifications 
+
+Year 
+
+2069 
+
+Institute 
+
+Location 
+
+Board 
+
+Texas International School 
+
+Mitrapark 
+
+Nepal Government 
+
+2070 – 2072 
+
+Xavier International College 
+
+Kalopul 
+
+HSEB 
+
+2072 – 2076 
+
+Trinity International College 
+(BSc. CSIT 4th year running) 
+
+ 
+
+ 
+ 
+Programming Languages / Technology 
+ Major  
+
+  Html5 
+
+  CSS3 
+
+ 
+
+JavaScript (ES6, ES7, ES8) 
+
+Dillibazaar 
+
+Tribhuvan University 
+
+ 
+
+      Technical Skills 
+
+  Responsive Design 
+
+  DOM manipulation 
+
+  Client side validation 
+
+  Working  with  APIs  (  Asynchronous  JS 
+
+Basic 
+
+  React Js 
+
+  MySql  
+
+  C, C++ 
+
+  Photoshop 
+
+ 
+
+ 
+
+Inkscape 
+
+ 
+ 
+Academic Project 
+Project Name: MeroPasal 
+
+  Bootstrap4 
+
+  Python  
+
+  Git & Github 
+
+& JSON ) 
+
+         Personal Skills 
+
+  Creative  
+
+  Open-minded  
+
+  Problem solving 
+
+  Fast learner 
+
+ 
+
+Language of Implementation: HTML5, CSS3, JavaScript 
+
+Description: MeroPasal is a responsive E-commerce website with complete client side validation. 
+
+URL to the project: http://tac.netlify.com/ 
+
+Personal Project 
+
+1.  URL shortener & Word Rhymer: https://tacmoktan.github.io/RhymeWordShortenUrl/ 
+2.  To do list app : https://tacmoktan.github.io/To-do-list-app/ 
+3.  Current Weather App: https://tacmoktan.github.io/CurrentWeatherApp/  
+4.  Frontend projects : https://codepen.io/tacmoktan/ 
+
+ 
+
+Event Participation 
+
+1.  DWIT Job Fair 2018 
+2.  Student ICT conference 2018 
+
+

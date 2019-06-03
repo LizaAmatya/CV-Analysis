@@ -1,0 +1,137 @@
+ 
+
+ 
+
+Gaurav 
+Khatri 
+
+Profile 
+
+ 
+
+ 
++977 9840069623            
+gaurav113.gk@gmail.com​  
+ 
+https://github.com/kakashi07 
+https://www.linkedin.com/in/gaurav-kh
+atri-769711106 
+
+ 
+
+A communicative, encouraging team player who presents ideas effectively and is able to assist others 
+efficiently. Experienced in programming with an interest in Machine Learning and Artificial Intelligence. 
+
+Skills/Programming Languages 
+
+ 
+
+❏ Good experience with Python and it’s 
+
+libraries 
+
+❏ Working knowledge on C and C++ 
+❏ Basic Knowledge on SQL 
+
+Education 
+
+ 
+
+❏ Certified on ​Artificial Intelligence​ offered by 
+❏ Completed​ Machine Learning​ course by 
+
+Columbia University on Edx 
+
+Columbia University on Edx 
+
+2007 - 2012 
+SLC : Readers’ Public High School, Gulmi,Tamghas 
+Passed with Distinction ​- 87 % 
+
+2012 - 2014 
+Science (HSEB) : Nepal Mega College, Babarmahal 
+Passed with Distinction​ - 82 % 
+ 
+
+2014 - 2018 
+B.E Electronics and Communication Engineering :  IOE, Pulchowk 
+Ongoing - 80.2 % (7th Semester)  
+
+Projects / Experience 
+
+❏ Code Breakers – C++ Project , 3rd Semester   (2015) 
+
+We designed a board game based upon real strategy game Mastermind   using C++ and 
+SDL . I was tasked with programming the game logic and  it's level structure. 
+
+ 
+
+ 
+
+ 
+
+❏ Object Tracking Camera System - Minor Project  ( 2017) 
+
+Developed a Camera system that could track objects based upon their color and shape. I was 
+responsible for programming the detection/tracking of objects based on input parameters and 
+implemented it with Python and OpenCV library. 
+ 
+
+❏ 2048 AI Solver (2017) 
+
+ 
+
+Programmed 2048 AI Solver that accomplished score greater than 1024 80% of time using 4 
+different heuristics. 
+ 
+
+❏ Visual Assistance Using Automatic Image Captioning - Major Project ( 2018)
+
+ 
+
+With this project, we are intending to provide visual assistance to visually impaired persons using 
+Automatic Image Captioning model based on ​Attention Model​. I am tasked with the implementation of 
+RNN​ architectures based on the input from ​CNN​ extracted features. 
+
+❏ Construction Estimation App - Creative Solutions Pvt.Ltd (2017) 
+
+Designed an estimator app for buildings that could estimate number of bricks and total cost for 
+design specifications given. 
+
+ 
+
+❏ AI Fellowship  - Fusemachines (2017) 
+
+Selected for scholarships on​ AI Micromasters​ course offered by ​Columbia University​ on ​Edx​. 
+
+Extra Curricular Activity Highlights 
+
+❏ Campus Director - ​Hult Prize Foundation 
+
+(​2017-2018) 
+
+Worlds largest student competition and social business accelerator supported by former U.S. 
+President Bill Clinton. As a Campus Director, I was tasked with organizing the Quarter Final Rounds 
+at Tribhuwan University and coordinating with international teams. 
+ 
+
+❏ Marketing Manager - LOCUS 2018  
+
+                                                (2017-2018) 
+
+I handled the Marketing Department for largest college level exhibition of Nepal at IOE, Pulchowk 
+Campus. 
+ 
+
+❏ Organizing Committee - IOE Robocon, Journey to Mustang
+
+( 2016) 
+
+Awards and Recognitions 
+
+❏ Top 20 Global Campus Director - Hult Prize 2018 
+
+I was rewarded as the ​Top 20 Campus Director​ for Hult Prize 2018 among​ 1000 + Campus 
+Directors​ worldwide for my outstanding contribution and organizational capabilities.  
+
+

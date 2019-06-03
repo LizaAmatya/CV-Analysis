@@ -1,0 +1,273 @@
+ 
+SURAJ ACHARYA 
+Campus Road-03, Taulihawa, Kapilvastu, Province 05, Lumbini, 
+Nepal 32800, +977- 9847062022, suraj.acharya62@gmail.com 
+
+ 
+ 
+    
+   Professional Summary 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+Enthusiastic and dedicated software  development individual with 1.5 years of experience 
+of software development lifecycle, thorough understanding of industry trends and seeking 
+a position to utilize my skills and abilities in the field of Information Technology sector in 
+your  esteemed  organization  that  offers  professional  growth  while  being  resourceful, 
+innovative and flexible. 
+
+Work Experiences 
+
+Web  Developer  |  Firehub  Pvt.  Ltd.  Kathamand-33,  Maitidevi,  Nepal. 
+
+28 February 2013 to 17 April 2014 
+
+  Worked with senior web developer to create desktop and web based 
+applications  using  core  java,  #.Net,  basics  of  Servlet  and  JSP,  and 
+ensuring each implement meets the brief. 
+
+  Developed  the  tables,  stored  procedures  and  its  relationships, 
+maintaining  the  integrity  of  tables  using  SQL  query  using  MS  SQL 
+Server 2008 and verify with team members. 
+
+  Played  a  key  role  in  the  designing  lifecycle,  from  brief  through  design,  modules  and 
+
+release/implementation. 
+
+  Developed the modules and coordinate with the team sharing the inputs. 
+  Updated,  monitored,  enhanced  and  altered  the  existing  systems  and  applications  after 
+performing  troubleshooting  measures  to  determine  the  issues  as  well  as  reviewed  any 
+changed  code  for  quality,  adherence  to  standards,  and  potential  performance  effects  on 
+compatible systems. 
+
+ 
+
+Jr.  Software  Engineer  |  IN  TIME  TEC Visionsoft  Pvt.  Ltd.| Bangalore,  Karnataka, 
+
+India. 3 July 2017 to 22 November 2017 
+
+  Worked  in  'Salesforce  Technology'  where  I  was  assigned  to  develop  essential  chunk  of 
+program based on  American client (Balsam Brand Hills-which sells the Christmas tree all 
+over  the  USA,  Germany,  Australia,  France,  Philippines  etc.)  requirement  using  apex 
+programming  in  a  team  under  the  lead  programmer  and  manager  in  their  huge  project. 
+Moreover, I also had to manage and synchronize the data making the persistence of data in 
+each developer sandbox before launching to the main project. 
+
+  Collaborated with team to plan, develop and implement the project. 
+  Acknowledged the customer issues and resolved their problems quickly and efficiently. 
+  Effectively  communicated  with  other  employees  and  upper  management  to  ensure 
+
+complete care of customers. 
+
+ 
+Technical Skills 
+
+Programming Language: C, Core Java, basics of Servlet and JSP, HTML & 
+
+CSS, and basics of Salesforce Technology. 
+
+ Back-end: MS SQLSERVER 2008 
+
+Learning Tableau from Udemy.com online learning platform. 
+
+ 
+
+ 
+ 
+
+Board/ 
+Universit
+y 
+VTU University, 
+Belgam, 
+Karnataka, India 
+
+MCRPSV 
+University, 
+Bhopal, India 
+
+HSEB  
+Board, Nepal 
+
+Government of 
+Nepal 
+
+Year 
+Passing 
+
+of 
+
+Aggregate 
+(%) 
+
+2017 
+
+75.49% 
+
+2012 
+
+67.18% 
+
+2009 
+
+54.30% 
+
+2007 
+
+65.75% 
+
+  Educational Qualification 
+ 
+ 
+
+Course 
+
+Institution 
+
+New Horizon 
+College of 
+Engineering, 
+Bangalore, India 
+
+Lord Buddha 
+Education 
+Foundation, 
+Nepal 
+
+Universal 
+College, 
+Nepal 
+Buddha Jyoti 
+Higher 
+Secondary 
+School, Nepal 
+
+MCA 
+
+BCA 
+
++2 
+
+SLC 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Seminars, Workshops and Trainings 
+
+Attended  the  technical  seminar  “Information  and  Cyber  Security  Education  and  Awareness” 
+held on 23rd April 2016. 
+
+ 
+
+Completed the Infosys Technologies Software Company Foundation Program in C, RDBMS 
+and Software Engineering. 
+
+Java training from Deerwalk Institute of Technology, Siphal, Kathmandu, Nepal. 
+
+ 
+
+Cisco Certified Network Associate (CCNA) training from AITE, Kamladi, Kathmandu, Nepal 
+Microsoft certified in programming in HTML5 with Javascript and CSS3. 
+
+ 
+
+College Projects 
+
+1: 
+ Title: Book Store management System 
+
+Aim  of  Project:  To  record  books,  daily  sales  record  and  generate  the  reports.  Team 
+
+size: Single 
+
+Front end and Back end: C#.NET and MS SERVER 2008 
+ 
+2: 
+
+Title: MedicareSolution 
+
+Aim  of  Project:  To 
+management, daily sales record, generate bills and generates reports. 
+
+record  medicine 
+
+details, 
+
+purchased 
+
+records, 
+
+stock 
+
+Team size: Single 
+
+Front end and Back end: Java Form (Netbeans IDE) and MS SQL Server 2008 
+
+3: 
+
+Title: MyEasyRide  
+
+Aim of Project: It is a car pooling web based application which is used to travel from one 
+place  to  another  with  ease  by  booking  on  advance.  It  sets  the  location  and  updates  the 
+location for tracking the person who uses their own car for other commuter when done the 
+booking on the same route. 
+
+Team size: Single 
+
+Front end and Back end: Java Core, JSP, HTML, CSS and MS SQL Server 2008 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Strengths 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+Independent,  Energetic,  Self-Learner  and  Self  motivates  and,  capable  of  working 
+independently as well as being part of team and cooperative. 
+
+Extra Co-curricular Activities 
+
+Played as team member of football game in school as well as in college in District level and 
+intercollege tournament. 
+Played as team member of Cricket game in school as well as in college in District level and 
+Intercollege tournament. 
+
+Played as single team of Table tennis game in interschool tournament. 
+
+Interest 
+
+Playing guitar, reading novel books, travelling, swimming etc. 
+
+

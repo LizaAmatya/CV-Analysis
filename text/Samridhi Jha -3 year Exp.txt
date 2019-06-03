@@ -1,0 +1,266 @@
+ 
+
+ 
+
+ 
+
+                         
+
+SAMRIDHI JHA 
+
+Kathmandu, Nepal 
+Mobile: +977-9843677028 
+Email Address: samridhijha@gmail.com  
+
+ 
+
+Personal Details: 
+
+Samridhi Jha 
+Female 
+28 August 1991 
+Kathmandu, Nepal 
+Nepali 
+Hindu 
+Kathmandu Residency, Bagdole, Lalitpur 
+Traveling, Music, Reading Books, Sports 
+
+ 
+Name:   
+Gender:  
+ 
+Date of Birth:   
+Birth Place: 
+ 
+ 
+Nationality: 
+ 
+Religion: 
+Address:  
+ 
+Interests: 
+ 
+Languages:                       Fluent in Maithili (Mother Tongue), Nepali, English, Hindi 
+ 
+Work Experience 
+
+AMNepal, Kathmandu, Nepal 
+
+Role: Senior Web Developer (June 2016-Present) 
+
+In this role, I am responsible for working with designer and customizing themes. We directly have meetings 
+with Office Team (both Nepal and Australian through skype) and work according to the requirements of 
+clients. Other duties and responsibilities include:  
+
+  Theme customization in WordPress. 
+  Plugin development for WordPress. 
+
+ 
+
+EbPearls Pvt. Ltd., Kupondole, Kathmandu, Nepal 
+
+Role: PHP Developer (December 2013 – June 2016) 
+
+In this role, I am responsible for working with designers, Front end and project management staff to meet 
+requirements for the functional elements of website projects. Leading specific projects and coordinating 
+with clients & office team to ensure work carried out meets standards, guidelines and clients’ expectation 
+are also my prime job responsibilities. Other duties and responsibilities include:  
+
+●  Building PHP websites using PHP based frameworks. 
+
+●  Develop  competitive  web  applications  as  per  clients’  requirement  using  open  source  CMS 
+
+applications such as WordPress & Drupal. 
+
+●  Develop plugins in WordPress & Drupal as per the requirement of clients. 
+
+●  Coordinate  with  clients  and  resolve  issues  related  to  jQuery,  Ajax,  javascript  and  browser 
+
+compatibility. 
+
+●  Prepare and maintain database using mysql.  
+
+● 
+
+Interpret and evaluate business and client needs to determine risks along with design apt solutions.  
+
+●  Plan, communicate and monitor tasks progress; evaluate, suggest and resolve technical and process 
+
+issues.  
+
+●  Use NetBeans, Sublime Text and Notepad++ for web development; use Mantis & Zoho tools 
+
+for project management.  
+
+Academic Qualification: 
+
+Degree 
+
+Bachelor 
+in  Computer 
+Science  &  Information 
+Technology (BSc. CSIT) 
+
+Year 
+passed 
+
+2013 
+
+Higher 
+Education in Science 
+
+Secondary 
+
+2009 
+
+Leaving 
+
+2007 
+
+School 
+Certificate 
+ 
+
+ 
+
+Key Projects Handled: 
+
+College/School 
+
+Board/University 
+
+Grade 
+
+Kathford International 
+College of Engineering 
+and Management 
+
+National School of 
+Sciences (NIST) 
+
+Laboratory Higher 
+Secondary School 
+
+Tribhuwan University 
+
+Distinction 
+
+Higher Secondary 
+Education Board 
+
+Nepal Board 
+
+First Division 
+
+First Division 
+
+1.  Eglise Catholique Romaine–Genève   
+
+URL: http://ecr-ge.ch/  
+
+Technology used: WordPress, jQuery, Ajax  
+
+Team: Consisting of 4 members including a Developer, a Designer and a Quality Analyst (QA) and 
+Project Manager.  
+
+Features included in this project are as follow:  
+
+ 
+
+In order to reduce the server load, in activity listing page we have implemented Infinite Scroll with 
+Lazy loading so that we could achieve easy UI at the same time reduce server load.  
+
+  Also  another  interesting  feature  that  I  have  implemented  in  this  site  is  to  generate  sub-site 
+
+dynamically for churches which can be managed through sub-site admin panel.  
+
+  Other feature that is included in this site is an Event Filter mechanism where events are filtered on 
+the basis of time (year/month/day) by considering recurring and non-recurring and further recurring 
+as weekly and monthly and non-recurring as daily.  
+
+  Also as an email management tool, I have implemented Mail Chimp in this site as well.   
+
+ 
+
+2.  Emile Garcin – Properties  
+
+URL: http://www.emilegarcin.ch/  
+
+Technology used: WordPress, JQuery, WPML plugin  
+
+Team: Consisting of 4 members including a Developer, a Designer and a Quality Analyst (QA) and 
+Project Manager.  
+
+In this site I have implemented mega menu with the use of walker class. Some other feature in this 
+site in which I have worked are as follows:  
+
+  A Multilanguage feature is implemented in this site using WPML plugin.  
+  Other feature that is included in this site is Multi-layer Filtration of ventes i.e. properties. Properties 
+
+are filtered on the basis of keyword, property id and city and price.   
+ 
+
+3.  World Trade Center – Geneva  
+URL: http://www.wtc-geneva.ch/  
+
+Technology used: WordPress, WPML plugin. Google Yoast  
+
+Team: Consisting of 4 members including a Developer, a Designer and a Quality Analyst (QA) and 
+Project Manager.  
+
+Features included in this project are as follow:  
+
+  A Multilanguage feature is implemented in this site using WPML plugin.  
+  For SEO optimization I have used Google Yoast and also site is optimized with the use of W3total 
+
+cache.  
+ 
+
+4.  The cook, his wife and her shoes  
+URL: http://cook-wife-shoes.com/  
+
+Technology used: WordPress, woo-commerce, jQuery, Ajax  
+
+Team: Consisting of 4 members including a Developer, a Designer and a Quality Analyst (QA) and 
+Project Manager.  
+
+Features included in this project are as follows:  
+
+  One of the feature I have implemented in this site is retrieving Instagram Feeds using Instagram 
+
+API on the home page.  
+
+  This is in an ecommerce site in which I have added some features including new arrival section.   
+
+ 
+ 
+ 
+ 
+ 
+
+Skills: 
+
+●  Proficient in Scripting Languages as JQuery, Ajax; web services as SOAP, REST; programming 
+
+languages as Object Oriented PHP, C, C++, Java, .NET; markup languages as HTML, XML. 
+
+●  Team player, hardworking, proactive and confident.  
+
+ 
+
+LinkedIn Profile: 
+
+www.linkedin.com/in/samridhijha 
+
+I, hereby declare the information given above is true to the best of my knowledge and I understand that any 
+false claim would lead to disqualification or legal actions. 
+
+Samridhi Jha 
+
+Kathmandu, Nepal 
+
+ +9779843677028 
+
+ 
+
+

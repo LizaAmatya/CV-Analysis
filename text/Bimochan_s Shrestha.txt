@@ -1,0 +1,112 @@
+Bimochan Shrestha
+
+Backend Developer
+
+Never leave any task unﬁnished.
+
+sbimochan@gmail.com
+
+9849215262
+
+Kathmandu
+
+sbimochan.com.np
+
+www.github.com/sbimochan
+
+SKILLS &
+COMPETENCES
+
+Laravel
+
+Cordova
+
+Git
+
+PHP
+
+Wordpress
+
+LANGUAGES
+
+English
+Upper-intermediate
+
+Nepali
+Expert
+
+INTERESTS
+
+Machine Learning
+
+Linux
+
+Networking
+
+Science
+
+Web development
+
+EDUCATION
+BSc in Computer Science & Information Technology
+Himalaya College Of Engineering
+2013	–	Present
+
++2/High School
+Trinity International College
+2011	–	2013
+
+Certiﬁcate of School Level
+Nightingale Higher Secondary School
+04/2005	–	04/2010
+
+PERSONAL PROJECTS
+DNA Cryptography with Beaufort
+
+[Group Project] mixing a plaintext with OTP key and DNA. Finally applying Beaufort cipher to confuse.
+
+GIHMTTC
+
+built from Wordpress.  www.gihmttc.com
+
+Phone Garr app (2016 – Present)
+
+Android App for class mates with Phone numbers hotkeys and class routines based on
+day https://github.com/sbimochan/Phone-garr
+
+Ecommerce website for college individual project
+
+built from wordpress cms with RAD technique. https://github.com/sbimochan/beanbags
+
+WORK EXPERIENCE
+Full Stack Developer
+Delta IT Inc.
+06/2015	–	01/2016
+Contact: Sanjog	Rai	Regmi – 9803183517
+
+Intern as Backend Developer
+Technorio Inc.
+02/2017	–	Present
+Intern	in	Laravel	with	Restful	API
+
+ORGANIZATIONS
+Global Institute of Hotel Management (2008 – Present)
+Developer|Content Editor
+
+CERTIFICATES
+Child Gameathon (04/2015)
+Built a desktop game from Unity for children to motivate them to eat fruits
+
+Childreach Nepal (05/2015)
+Volunteered for earthquake victims.
+
+Human Traﬃcking Appathon (06/2015)
+Built a php based app called Rakshya SMS .
+
+ACHIEVEMENTS
+Advance PHP & Mysql with Laravel Training (02/2016 – 06/2016)
+Broadway Infosys
+
+Kathmandu
+
+

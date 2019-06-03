@@ -1,0 +1,442 @@
+Anib Manandhar 
+
+: K.M.C-26, Thamel ,Kathmandu 
+:  anibman333@gmail.com 
+: anibmanandhar.com.np 
+
+Address 
+Email ID 
+Website 
+Contact No  : 9841414533/01-4410391 
+Date of Birth: February 27,1994 
+ 
+ 
+Career Objective: 
+ 
+  
+knowledge of programming in JAVA, C++, and PHP etc. I wish to contribute towards 
+organizational goals through my creativity, hardworking and organized task handling 
+skills. 
+ 
+ Academic Qualification: 
+
+I seek job as an IT professional in a software company, where I can use my 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Degree 
+
+Institution 
+
+Board 
+
+Passing 
+
+Percentage/CGPA 
+
+Courses included 
+
+ 
+
+ 
+
+BIT(Bachelor 
+
+ 
+
+ 
+
+ 
+
+Year 
+
+ 
+
+ 
+
+ 
+
+ 
+
+in 
+
+Information 
+Technology)  
+
+KCC, 
+
+Purvanchal  
+
+Currently  
+
+Graduation after 
+
+Putalisadak 
+kathmandu 
+
+Uniersity(PU) 
+
+8th 
+
+8th semester(2017) 
+
+semester 
+
+Programming in 
+C/C++,Java,PHP,Web design, 
+Microprocessor and computer 
+architecture, Financial management, 
+marketing, Mathematics and many 
+more.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Physics, Chemistry,  Biology, 
+English, Mathematics and Nepali 
+
+Intermediate 
+
+Xavier 
+
+H.S.E.B. 
+
+2012 
+
+63.20%(aggregate) 
+
+Academy, 
+
+Lazimpat 
+kathmandu 
+
+Paragon 
+Public 
+School 
+
+Kathmandu, 
+
+Nepal 
+
+ 
+
+S.L.C. 
+
+ 
+
+ 
+
+ 
+
+SLC Board 
+
+2010 
+
+77.88% 
+
+Mathematics (compulsory and 
+optional), English, Social Studies, 
+Health & Environment, Science, 
+Nepali, Computer. 
+
+ 
+ 
+Projects: 
+ 
+
+1.  Griha-Karya: 
+
+  Description: An android based application which is very useful for 
+
+organizing assignments, tasks and projects for students and create routine 
+with time and information of class. The significant feature of this 
+application is that it can notify user about the tasks until due date and 
+time. 
+
+  Responsibilities: - - Worked as team leader in a group of 3 and played a 
+
+significant role to gather information, analysis, development, coding, 
+designing, testing and documentation. 
+
+  Presentation:- Presented to Purvanchal University, Biratnagar, Nepal. 
+  Key Technologies: - 
+
+Language  
+Platform   
+Database   
+Operating System     : Android 4.4.2 (Kitkat) or higher 
+ 
+
+      : Android (JAVA) 
+      : Android Studio 
+      : SQLite 
+
+2.  CookLook: 
+
+  Description: A platform neutral project on JAVA OOP, which shows 
+
+recipes of food according to ingredients selected by user. User can save, 
+create and update their recipes using this application. 
+
+  Responsibilities: - Worked within a group of 3 and contributed on requirement 
+
+gathering, analysis, development, coding, design, documentation and 
+presentation. 
+
+  Presentation:- Presented to Purvanchal University, Biratnagar, Nepal. 
+  Key Technologies: - 
+
+      : JAVA 
+
+Language  
+JAVA IDE                : Eclipse Mars 
+Database   
+Operating System     : Windows 7/8/8.1/10 
+ 
+
+      : MySQL  
+
+3.  GetGadget: 
+
+  Description: Very interesting and skill building project of e-commerce 
+
+web based application in PHP, which has attractive and responsive 
+designs. PHP was used in front end and MySQL database was used as 
+backend. 
+
+  Responsibilities: - Worked within a group of 3 and contributed on requirement 
+
+gathering, analysis, development, coding, design, documentation and 
+presentation. 
+
+  Presentation:- Presented to Purvanchal University, Biratnagar, Nepal. 
+  Key Technologies: - 
+
+      : PHP, HTML, Java-Script and CSS 
+      : MySQL 
+
+Language  
+Database   
+Web Services Used  : AJAX, XML, JSON etc 
+Framework 
+Operating System     : Windows 7/8/8.1/10 
+
+      : Twitter Bootstrap 
+
+ 
+
+4.  The Ultimate Quiz: 
+
+  Description: - The quiz system to provide entertaining and learning 
+
+experience to users with interactive interfaces. Visual Basic platform was 
+used to design and code the application. 
+
+  Responsibilities: - Worked as team leader in a group of 3 and contributed 
+
+significantly in analysis, coding, designing and documentation. 
+
+  Presentation:- Presented to Purvanchal University, Biratnagar, Nepal. 
+  Key Technologies: - 
+
+Language  
+Platform   
+Operating system      : Windows 7/8/8.1/10 
+ 
+
+      : Visual Basic COM 
+      : Visual Studio 2013 
+
+5.  The Gym App: 
+
+  Description: A very user-friendly application which acts as substitute 
+
+trainer for day-to-day gym routines and provide work out details. 
+  Responsibilities: - Worked as team leader in a group of 3 and played a 
+
+significant role to gather information, analysis, development, coding, 
+designing, testing and documentation. 
+
+  Presentation:- Presented to Purvanchal University, Biratnagar, Nepal. 
+  Key Technologies: - 
+
+      : Visual Basic COM 
+      : Visual Studio 2013 
+
+Language  
+Platform   
+Operating system      : Windows 7/8/8.1/10 
+Database   
+Operating system      : Windows 7/8/8.1/10 
+ 
+
+      : SQLite  
+
+6.  Banking System : 
+
+  Description: - Created Banking systems to save bank accounts and data 
+
+transactions. Basic C program was used for front-end as well as back-
+end. 
+
+  Responsibilities: - Worked as team leader in a group of 4 and contributed in 
+
+analysis, coding, designing, testing and documentation. 
+
+  Presentation:- Presented to Purvanchal University, Biratnagar, Nepal. 
+
+ 
+
+  Key Technologies: - 
+
+Language  
+Platform   
+ 
+
+      : C  
+      : Turbo C 
+
+ 
+
+ 
+Seminars/Exhibitions: 
+ 
+
+  Attended Wordpress workshop by IT Training Nepal. 
+  Attended Laravel workshop by IT Training Nepal. 
+  Kantipur City College Robotics Exhibitions. 
+  Laravel workshops by Kantipur City College. 
+  Advance Android(JAVA) classes by Kantipur City College 
+  Blood donation programs. 
+  Attended/Volunteered the CAN Info-Tech Exhibitions. 
+  Volunteered many earthquake relief programs during disastrous earthquake 2015. 
+
+ 
+Technical Skills:  
+ 
+
+ 
+
+ 
+
+: C, C++, JAVA, Android. 
+
+  Languages 
+  Operating Systems   : UNIX, LINUX, Windows OS. 
+  Web Programming   : HTML5, JavaScript, PHP, JSP. 
+  Frameworks             : Laravel 5.3, Twitter Bootstrap 3.3, Wordpress 4.7. 
+  Databases 
+  Miscellaneous     
+ 
+
+: MySQL, SQLite, SQL server 2005, MS Access. 
+: MVC, OOP, COM Programming Knowledge  
+
+Other Skills:  
+ 
+
+  Very good logical and analytical skills. 
+  Excellent Interpersonal and decision making ability. 
+  Developing source code in efficient manner. 
+  Good documentation preparation. 
+  A good presenter of related projects. 
+
+ 
+Personal Memoranda: 
+ 
+
+ 
+Father’s Name 
+Mother’s Name 
+
+ 
+
+    : Mr. Ram Pd. Manandhar 
+    : Mrs. Bina Manandhar 
+
+Nationality 
+Language Proficiency: 
+
+ 
+
+    : Nepali 
+
+ 
+
+  English (Fluent-Speaking/Reading/Writing) 
+  Nepali (Fluent-Speaking/Reading/Writing) 
+  Newari (Fluent-Speaking/Reading) 
+  Hindi (Fluent-Speaking/Reading) 
+
+    : Single 
+
+Permanent Address   : K.M.C-26, Thamel, Kathmandu 
+Marital status 
+Gender                        : Male 
+Hobbies 
+Strengths 
+ 
+ 
+
+ 
+ 
+ 
+
+    : Programming, Playing guitar, Sketching etc. 
+    : Positive attitude, Effective presentation, Smart working,  
+      Working within team. 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+References: 
+ 
+Reference 1 
+Name   
+ 
+Address 
+ 
+Home Phone   
+Mobile 
+ 
+Email   
+ 
+Company Name 
+Designation   
+Relationship   
+ 
+
+Sapana Manandhar 
+Lalitpur, Nepal 
+015541782 
+9841229869 
+sayamisaru@yahoo.com 
+Embassy of the Republic of Korea 
+Liaison and Administration Officer 
+Aunt 
+
+

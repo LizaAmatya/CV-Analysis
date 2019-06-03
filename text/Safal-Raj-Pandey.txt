@@ -1,0 +1,84 @@
+Safal Raj Pandey 
+
+Samakhusi, Kathmandu | 9841761672 | safal.pandey.sp@gmail.com | 
+https://github.com/SafalPandey  
+
+--------------------------------------------------------------------------------------------------------------------- 
+
+Education 
+
+Bachelor’s Degree in Computer Engineering (2013 - Present) - Kathmandu Engineering College, 
+Kalimati, Kathmandu (TU- IOE)  
+
+Work Experience 
+
+Jan 2017 – Feb 2017  Internship – PATHS Asia 
+
+Programming Languages/ Technology 
+
+Major: 
+
+Basic: 
+
+Node JS, Express JS, Unity3D game engine using C#, JavaScript, Python-Django, HTML 
+and CSS, Bootstrap, Drupal, WordPress, Xilinx ISE (VHDL), MySQL 
+
+ 
+
+React JS, JAVA, Android, C++, Blender for 3D modelling, Arduino UNO 
+
+College Projects: 
+
+1.  HireMe365, SEM VII and VIII – A freelancing web based application where users can 
+choose to sign up either as an employer or a freelancer. Employers will be able to post jobs 
+and keep track of applicants for the jobs and freelancers will be able to apply for available 
+jobs  and  get  payed  via  a  payment  gateway  through  the  website.  Built  using  NodeJS, 
+ExpressJS. 
+
+2.  Virtual Reality Paint, SEM V and VI - An immersive VR paint application for the users to 
+draw in 360 canvas, save projects or modify stored projects in Google Cardboard supported 
+android devices. A controller application is used to draw figures or lines. Gamemode was 
+included to make use of the 3D VR environment. 
+
+3.  Calander with ToDo list, SEM I – A Calander program that is able to store some tasks to 
+
+do and then search them and load them by date. 
+
+Personal Projects: 
+
+1.  Blogger,  I  built  this  web  application  in  fourth  year.  It  uses  Django  –  Python  as  web 
+
+framework and SQLite database. It is available on my github page. 
+
+2.  Hospital Informer, I built this web based application in third year. It uses Google Maps 
+API, JS, HTML, CSS, and Bootstrap. This application can read your location and then 
+show hospitals within 2 KM of your location. 
+
+3.  EasyVend, I built this application for FPGA Contest within a week. Written in VHDL. 
+4.  LetterPunch, I built this game in SEM III. A game to help improve typing speed of the 
+user. A similar concept to Whack-A-Mole but instead of moles, the users need to type the 
+letters on the screen. Available on my GitHub account. 
+
+Event Participation: 
+
+1  LOCUS 2017 National Software Project Demonstration 
+
+-  For Virtual Reality Paint 
+
+2  TechBihani3.0 2017 National Software Project Competition - First Prize winner 
+
+-  For Virtual Reality Paint 
+
+3  National FPGA Contest (LOCUS) 2016 Third Prize winner 
+
+-  For EasyVend project 
+
+Extra-Curricular Activities:  
+
+•  Secretary of KEC IT CLUB - Conducting various workshops, code-camps and assisting 
+
+students in their ongoing projects.  
+
+•  Technical Quiz 2014 - First position holder of Intra-College Quiz competition 
+
+

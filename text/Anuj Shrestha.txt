@@ -1,0 +1,66 @@
+Anuj Kumar Shrestha 
+Balambu 
+Kathmandu, Nepal 
+Contact no.: +9779843686052 
+Email ID: anujshresthq1234@gmail.com 
+
+Summary 
+
+ 
+
+An enthusiastic and highly motivated professional and have completed BE Computer 
+Engineering and have a quality knowledge in Java, C, C++ 
+ 
+
+Education Qualification 
+
+  B.E. in Computer Engineering from Kantipur Engineering College, 2070-2074(B.S) 
+  +2 HSEB from Adarsha Vidya Mandir Higher Secondary School, 2066-2068(B.S) 
+  Schooling from Adarsha Vidya Mandir Higher Secondary School 
+
+ 
+
+Technical Expertise 
+
+Programming: C, C++, Java, Spring-Hibernate, JSP, Android with Web Services 
+Database: My-Sql. 
+ 
+
+Projects 
+
+GetJob-Job Portal 
+Duration: 1 Year 
+Language used: Java 
+Database: MsSQL 
+A web based application project which features finding suitable job for finding jobs 
+according to their area of interest for various job seekers and posting different job 
+vacancies for the employers. It was done as our major project at seventh semester. 
+ 
+ 
+
+ 
+
+E-Shopping 
+Duration: 6 months 
+Language used: Java 
+Database: MsSQL 
+A web based application project which features online commerciality of various 
+electronic goods(branded or used goods). It was done as our minor project at sixth 
+semester. 
+ 
+Bus Reservation System 
+Duration: 6 months 
+Language used: C++ 
+Third semester project done in C++ for making passengers easier to reserve a seat by 
+viewing the available seat in the available bus  along with their routes and destination. 
+ 
+Stationary Billing System 
+Duration: 6 months 
+Language used: C 
+First semester project done in C for creating a billing system which calculates the total 
+by just entering the items bought in the system choosing various items along with the 
+quantity. At last we created a digital bill through the file created by the system. 
+ 
+ 
+
+

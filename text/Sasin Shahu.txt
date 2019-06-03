@@ -1,0 +1,165 @@
+                                                                                    
+SASIN SHAHU
+
+        Email: sasinshahu977@gmail.com
+        TEL: +977-9841393640(M)
+
+Tinchuli Marg, Boudha 
+Kathmandu, Nepal 
+                                                                  
+________________________________________________________________                                                                          
+ 
+CAREER OBJECTIVE:
+Seeking a position to utilize my knowledge and skills in the Information Technology 
+industry that offers opportunities of professional growth and creativity.  
+
+SUMMARY:
+
+•
+•
+•
+•
+
+Pursued B.E (Information Science) from Siddaganga Institute of Technology. 
+Undergone Android App Development training from Trainedge in 2015. 
+Consistently good academic record. 
+Hardworking and fast learner. 
+
+PROJECT:
+
+•
+
+•
+
+Mini Project ‘Voice Activated Wireless Hardware Control System’ to control 
+different hardware appliances using voice commands.      
+Major Project ‘Wireless Surveillance and Monitoring System’ to implement 
+wireless surveillance using GSM network via Smartphone or PC.    
+
+EDUCATIONAL QUALIFICATION:
+
+    
+Examination  
+     
+  B.E
+
+ 
+Intermediate
+
+Discipline/
+Specialization
+
+Information 
+Science
+Engineering
+
+Science 
+Stream
+
+    10th
+
+    S.L.C
+
+School/
+college
+Siddaganga 
+Institute of 
+Technology, 
+Tumkur
+Chelsea 
+International 
+Academy, 
+Kathmandu
+Paragon 
+Public 
+School,
+Kathmandu
+
+Board/
+University
+
+VTU
+
+Year of 
+Passing
+  
+ 2016
+
+% Marks    
+Obtained
+7.74 
+CGPA
+
+A Levels
+
+  
+  2011
+
+65.00%
+
+S.L.C
+
+  2009
+
+84.00%
+
+COMPUTER SKILLS:
+Languages                    : C, C++, JAVA, HTML, Android JAVA, Visual Basic.
+Database                      : Oracle, MySQL.
+Operating Systems        : Windows XP/7/8, LINUX, UNIX.
+
+AREAS OF Interest:
+Software Development, Web Design & Development, Mobile App Development
+
+ACADEMIC PROJECT:
+
+Project1:          Voice Automated Wireless Hardware Control System 
+Language of Implementation:           Arduino
+Operating System:      Windows 98/7/8.
+DESCRIPTION:         This embedded system project was based on Arduino. It can be 
+used to control hardware like motor, buzzer or lights using the voice of the user. It 
+can  be  used  to  eliminate  the  need  of  switches.  The  user  can  control  the  devices 
+without the need of approaching the devices. 
+
+Project2:         Wireless Surveillance and Monitoring System 
+Language of Implementation:           JAVA
+Operating System:      Android
+DESCRIPTION:         It is a JAVA based project to implement remote surveillance and 
+monitoring  system.  It  can  be  used  to  monitor  the  property  by  the  use  of  GSM 
+network. It is implemented by making a video call to the camera. The camera sends 
+the live feed back to the user enabling the user to record the video too. The user can 
+control the camera with the help of keypad and execute rotate functions and zoom 
+function.    
+
+EXTRA CURRICULAR and Achievements:
+
+•
+
+•
+•
+
+•
+
+•
+
+Participated in ‘FEEL Employable’ Personality Development Program II 
+Semester  Member of the organizing committee of Cultural Event ‘Laligurans 
+2014’ on the occasion of Deepawali 
+First Position in ‘Laligurans Football Tournament 2015’, SIT 
+Participated in two day Workshop on Storage Area Network & Data 
+Management Simplified organized by Datalifecycle Company. 
+Have undergone six weeks industrial training on ‘Essentials of Developing 
+Android Apps’ at Trainedge, SIT 
+Participated in Five-a-side Football Competition in Annual College Fest 
+‘Halcyon 2016’, SIT 
+
+HOBBIES:
+Listening Music, Football, Gaming, Travelling, Reading 
+
+I hereby declare that the above-mentioned information is correct up to my 
+knowledge 
+
+Place: Kathmandu                                                            SASIN SHAHU            
+Date: 06/06/2016                                                              SIGNATURE
+
+

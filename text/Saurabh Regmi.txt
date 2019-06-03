@@ -1,0 +1,95 @@
+Saurabh Regmi
+saurabhregmi@gmail.com
+9849513264
+
+SKILLS
+Courses Taken:
+
+Other skills and
+Competances:
+
+Data mining Elective I
+Big Data Elective II
+XML Elective II
+C# workshop(MIC Nepal)
+HTML, CSS, JavaScript(Beginner)
+Bootstrap(Beginner)
+Android UI Design(Beginner)
+C, C++
+XML
+Linux,Barebone window and shell commands
+
+PROJECTS
+Project Name: Major Project Pi-secure
+Role: Coder
+Project Detail
+
+Team Size: 4
+Intrusion detection system using rasp. Pi that detects the incoming packets in the
+network and informs the user about the packets.
+
+Project Duration: 1 Year
+
+Project Name: Minor Project Fare Kathmandu
+Role: UI Design
+Team Size: 4
+Android app that shows the fares of Taxi and buses in Kathmandu. The buses were
+Project Detail
+selected based on those having ﬁxed routes.
+
+Project Duration: 1 Year
+
+Project Name: Library Management on C
+Role: Coder
+Project Detail
+
+Team Size: 4
+Project Duration: 1 Month
+A library management system, also known as an automated library
+system is software that has been developed to handle basic housekeeping
+functions of a library.
+
+Project Name: Library Management on C++
+Role: Coder
+Project Detail
+
+Team Size: 4
+Project Duration: 1 Month
+A library management system, also known as an automated library
+system is software that has been developed to handle basic housekeeping
+functions of a library.
+
+EDUCATION
+Degree/Course
+Bachelor in Computer Engineering
+Kathmandu Engineering College , Tribhuvan University
+Science (+2)
+Pentagon International College , HSEB
+SLC
+Everest English Boarding School , Nepal
+PERSONAL DETAILS
+Address
+
+Buddhanagar
+Kathmandu, Bagmati
+2051/03/03
+
+Date of Birth
+
+Year of Passing
+
+2013
+
+2010
+
+Gender
+Nationality
+Marital Status
+
+Male
+Nepali
+Single
+
+Saurabh Regmi
+
+
