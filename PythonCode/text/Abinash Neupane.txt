@@ -1,0 +1,273 @@
+ABINASH
+
+BINASH NEUPANE 
+
++977-9825104351
+9825104351 
+abinash.neupane123@gmail.com
+abinash.neupane123@gmail.com 
+ 
+https://abinashneupane.wordpress.com/
+https://abinashneupane.wordpress.com/ 
+
+ 
+
+About me 
+I have 4 hobbies: work, traveling, sport 
+
+obbies: work, traveling, sport and reading.  
+
+I always try to connect these 4 things. I learn new stuff every day to be on a top of Android technologies 
+4 things. I learn new stuff every day to be on a top of Android technologies 
+4 things. I learn new stuff every day to be on a top of Android technologies 
+and best practices. I have been working with Android more than 6 years and I worked with technologies 
+ices. I have been working with Android more than 6 years and I worked with technologies 
+ices. I have been working with Android more than 6 years and I worked with technologies 
+like:  
+
+Java  
+
+  Android  
+ 
+  Gradle (Maven)  
+  XML  
+  Node JS 
+ 
+JSON  
+  HTML  
+  Python 
+  GIT  
+
+Experienced  with  android studio &  e
+have a little experience with Android TV as well. 
+have a little experience with Android TV as well.  
+
+dio &  eclipse, most  of my  projects oriented on  mobile  an
+
+ost  of my  projects oriented on  mobile  and  tablets  but I 
+
+Common libraries and tools which help me in developing process: 
+Common libraries and tools which help me in developing process: Android Support Library, Dagger 2,
+Android Support Library, Dagger 2, 
+ButterKnife, EventBus, RX JAVA, ORMLITE, AppsFlyer, Optimizely, AppSee, Farebase, Google Ana
+ButterKnife, EventBus, RX JAVA, ORMLITE, AppsFlyer, Optimizely, AppSee, Farebase, Google Ana
+ButterKnife, EventBus, RX JAVA, ORMLITE, AppsFlyer, Optimizely, AppSee, Farebase, Google Analytics 
+
+Currently  in  my  free  time  I  usually  work  on  my  small  start
+stacks.  
+
+free  time  I  usually  work  on  my  small  start-up  specializing  in  nodejs    and  other  web 
+specializing  in  nodejs    and  other  web 
+
+Some of my published apps: 
+
+  Math Games – https://play.google.com/store/apps/details?id=com.ansoft.mathforkidspro
+https://play.google.com/store/apps/details?id=com.ansoft.mathforkidspro
+https://play.google.com/store/apps/details?id=com.ansoft.mathforkidspro 
+  Kandara Icons – https://play.google.com/store/apps/dev?id=5197566715645153751
+https://play.google.com/store/apps/dev?id=5197566715645153751
+https://play.google.com/store/apps/dev?id=5197566715645153751 
+  Rangeen Icons –  https://play.google.com/store/apps/dev?id=8552302957435904913
+https://play.google.com/store/apps/dev?id=8552302957435904913
+https://play.google.com/store/apps/dev?id=8552302957435904913 
+  Unpark Me –  https://play.google.com/store/apps/details?id=com.kandara.unparkme
+https://play.google.com/store/apps/details?id=com.kandara.unparkme
+https://play.google.com/store/apps/details?id=com.kandara.unparkme 
+  Smart PG – https://play.google.com/store
+https://play.google.com/store/apps/details?id=com.kandara.medicalapp
+/apps/details?id=com.kandara.medicalapp 
+
+ 
+
+Projects 
+ 
+Scoreh                                                                            
+Description 
+It is an easy to use web application to create, design, assign and analyze online assessments. Creating a 
+test is just a click of button away. When you click on create test, system will create a predefined test 
+based on standard test settings. But If you need to customize then everything is simple and is effective 
+right away. 
+ 
+When you finish adding all questions to your test, you can start inviting candidates right away. You can 
+either make your exam public or private. If the exam is public then users can access it right away but if 
+it’s private then the system will just email your candidates from the system. 
+
+                 July 2018 – Present 
+
+         
+
+Involved in designing the UX of the whole platform. 
+
+ 
+  Developed and design overall database management system for the platform. 
+  Developed the backend API for the system. 
+  Developed the frontend of the system including the admin panel and test takers panel. 
+
+ 
+My responsibility 
+
+ 
+ 
+Technology stacks 
+
+  Core JavaScript 
+  Node JS 
+  Android 
+ 
+  MongoDB 
+  Node Components 
+  HTML, css 
+
+Java 
+
+ 
+Links 
+https://scoreh.com/ 
+ 
+ 
+Smart PG                                                                                          
+Description 
+Smart PG is an online platform for PG aspirant to get prepared for their big exam. It offers an android 
+and ios (soon) application to get prepared for the exam. The mobile application is a whole package to 
+make the textbook of the same author mobile interactive. 
+ 
+Smart PG is the demand of technological era. It encompasses a complete syllabus including all past 
+questions for PG preparation in the handy format. Smart PG includes student friendly features like 
+instant search option, various interactive modes of study, online model tests, self test options and many 
+more. 
+ 
+
+  Mar 2018 – July 2018 
+
+Smart PG is the best available digital platform for PG preparation. When free, take your mobile and start 
+reading, anytime, anywhere. 
+
+ 
+My responsibility 
+
+Involved in designing the overall UI of Android app. 
+
+Involved in modifying the REST API required for the system 
+
+ 
+  Designed the overall database of system 
+ 
+  Designed and developed the web application for admins to manage content. 
+  Designed and developed the test takers web panel for each exam 
+  Developed the whole android application. 
+
+ 
+Technology stacks  
+
+  Android 
+  Node JS 
+  Core Javascript 
+ 
+  MongoDB 
+  Node Components 
+  HTML, css 
+
+Java 
+
+ 
+Links 
+
+ 
+ 
+Technology stacks 
+
+  Adobe Photoshop 
+  Adobe Illustrator 
+  Android 
+ 
+
+Java 
+
+  http://smartpgnepal.com/ 
+  https://play.google.com/store/apps/details?id=com.kandara.medicalapp 
+
+ 
+ 
+Icon Packs                                                                                          
+Description 
+In the course of nearly one and half year I was involved in developing and designing various icons packs 
+for android. I with my co-founder developed and designed total of 12 icon packs. The combined total 
+downloads of those entire icon packs is nearly one million in google play store.  
+ 
+Most of the icon packs we’ve developed are Paid and some of them are for free. We were also involved 
+in designing and developing wallpaper app for android which is doing pretty well in play store. 
+ 
+My responsibility 
+
+   Dec 2016 – Jan 2018 
+
+  Come up with a concept for a particular pack. 
+  Designing the minimal icons for each app included in our icon packs. 
+  Developing the android app based on the open source icon pack library. 
+
+  XML 
+
+ 
+Links 
+
+  https://play.google.com/store/apps/dev?id=5197566715645153751 
+  https://play.google.com/store/apps/dev?id=8552302957435904913 
+
+ 
+
+ 
+
+ 
+
+                July 2010 – Apr 2012 
+
+         
+
+ 
+
+     Nov 2012 – Present 
+
+ 
+ 
+Education 
+Shishuniketan Higher Secondary School 
++2 in Science 
+ 
+Western Regional Campus 
+Bachelors in Computer Engineering 
+ 
+ 
+ 
+ 
+Skills 
+
+ 
+
+ 
+
+  Adobe Illustrator 
+  UI Design 
+  Adobe Photoshop 
+  Logo Design 
+  Branding 
+  Vector Design 
+
+ 
+ 
+ 
+References 
+ 
+Websites : 
+https://abinashneupane.wordpress.com 
+ 
+Social Media : 
+www.instagram.com/thekunst 
+ 
+Github : 
+https://github.com/abinashn1 
+ 
+ 
+ 
+ 
+
+

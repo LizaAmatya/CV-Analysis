@@ -1,0 +1,90 @@
+Abhijit Palve
+
+Software Developer - Frugal Innovation Hub
+
+Santa Clara, CA - Email me on Indeed: indeed.com/r/Abhijit-Palve/b01f3146a046b4b2
+
+Innovative and enthusiastic MSCS graduate with a strong foundation in entire software development lifecycle
+and programming principles. Astute knowledge of Agile/Scrum Methodology and object-oriented programming.
+Willing to relocate: Anywhere
+Sponsorship required to work in the US
+
+WORK EXPERIENCE
+
+Software Developer
+Frugal Innovation Hub  -  Santa Clara, CA - October 2016 to Present
+
+Worked as a part of team to develop and implement an android application for Afrobarometer's online data
+analysis tool
+●  Developed  and  tested  user  interface  and  SQLite  database  for  a  data  analysis  application  without
+jeopardizing data privacy and security and also wrote unit tests for mobile code
+●  Created  an  android  application  for  scheduling  and  sending  messages  which  helped  the  employees  in
+effective time
+management while also debugging critical application issues such as crashes, memory leaks and concurrency
+● Assist team members and provide support and solutions to customer queries to meet company objectives
+and also maintained
+updated knowledge of company products and services to better provide customer support and service solutions
+
+Software Developer
+Kunal IT Services Pvt. Ltd  -  Pune, Maharashtra - June 2013 to June 2014
+
+Pune, India
+● Developed and tested student side and admin side control system for a web application of Online Exam
+System  which  facilitates  the  online  exam  for  candidates  by  providing  multiple  choice  question  and  after
+completion displays the result
+● Developed an android application in which Hindi, Marathi, English daily GK (General Awareness), current
+affairs and business
+questions are given in the form of a sample quiz
+● Designed and implemented services and frameworks for mobile platforms
+● Designed and built a web application which includes an entire data flow of a three tier application which
+confirms that all
+operations including business logic, validation and crud operations work flawlessly
+
+EDUCATION
+
+Master of Science in Computer Science and Engineering
+Santa Clara University  -  Santa Clara, CA
+September 2016
+
+Bachelor of Technology in Computer Engineering
+Vishwakarma Institute of Technology  -  Pune, Maharashtra
+June 2013
+
+SKILLS
+
+Java (2 years), SQL (2 years), Object-Oriented Principles (2 years), Android Framework (2 years), Android
+Studio (2 years), JSON (Less than 1 year), HTML 5 (1 year), CSS3 (1 year), Eclipse (2 years), MySQL (2
+years), IDE (2 years), MS Access (2 years), MS Excel (2 years), Windows (2 years)
+
+LINKS
+
+https://github.com/abhijitpalve
+
+https://www.linkedin.com/in/abhijitpalve/
+
+AWARDS
+
+Winner of Swades Premier League
+May 2016
+● Organized Swades Premier League 2016, an university league, also was captain and coach of winning team
+
+CERTIFICATIONS/LICENSES
+
+Java
+June 2011 to Present
+
+C++ Language
+June 2010 to Present
+
+C Language
+January 2010 to Present
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+Languages: JavaScript, C, C++
+Operating Systems and Tools: Linux, Unix, Oracle10g, IDE, Git
+Technologies: Data warehousing and Analytics, Online
+Analytical Processing, White Box and Black Box Testing, Manual and Automated Testing, Selenium
+
+

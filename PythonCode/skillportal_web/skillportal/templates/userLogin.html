@@ -1,0 +1,131 @@
+{% extends 'base.html' %}
+
+{% block title %}Login{% endblock %}
+
+{% block content %}
+
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>User Login</title>
+
+        <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
+        <script type="text/javascript" src="jquery-3.3.1.slim.min.js"></script>
+        <script type="text/javascript" src="bootstrap.min.js"></script>
+        <style type="text/css">
+
+            .container{
+                background-image:url(kitab7.jpg);
+            }
+            .q{
+                background-color: darkblue;
+                background:rgba(10,90,100,0.4);
+                margin-bottom: 0px;
+                margin-left: 350px;
+
+
+            }
+            .one{
+                font-size: 32px;
+                margin-left:30px;
+
+            }
+            .two{
+                font-size: 25px;
+                margin-left:30px;
+                color:black;
+            }
+            .three{
+                margin-left: 30px;
+                font-size: 15px;
+                font-color:black;
+
+            }
+            .four{
+                font-size: 15px;
+                margin-left:30px;
+            }
+            .five{
+                text-align: center;
+            }
+            form{
+                margin-left: 30px;
+            }
+            a{
+                text-decoration: none;
+                color:darkblue;
+            }
+            /*#button{
+                    position:absolute;
+                    top:295px;
+                    left:50px;
+                    background-color:darkblue;
+                    color:white;
+                    height: 30px;
+                    width: 65px;
+                    background-size:large;
+                    opacity:0.8;
+            }
+            #button:hover{
+                    background:rgba(30,30,90,0.8);
+            }*/
+    </style>
+    </head>
+<body>
+    <div class="container ">
+
+        <div class="col-4 q">
+            <div class="one">User Login
+            </div> <br>
+            <div class="two">Sign in to your account<br>
+            </div><br>
+            <!--<div class="three">-->
+            <!--</div><br>-->
+
+            <!--{% if form.errors %}-->
+                <!--<p>Your username and password didn't match. Please try again.</p>-->
+            <!--{% endif %}-->
+
+            <!--{% if next %}-->
+                <!--{% if user.is_authenticated %}-->
+                    <!--<p>Your account doesn't have access. Login with a valid account.</p>-->
+
+                <!--{% else %}-->
+                    <!--<p>Please login to access the portal.</p>-->
+                <!--{% endif %}-->
+            <!--{% endif %}-->
+
+            <form action="" class="navbar-form" method="post">
+                {% csrf_token %}
+                <div class="form-group">
+                    <label>Username</label>
+                    <input type="text" class="form-control" placeholder="Username" name="username" required>
+                    <br><br>
+
+                    <label >Email address</label>
+                    <input type="email" class="form-control" placeholder="email" name="email" required>
+
+                    <br><br>
+                    <span class=" text-danger float-right">
+                    </span>
+                    <label>Password</label>
+                    <input type="password" class="form-control" placeholder="Password" name="password" pattern=".{8,}" title="8 or more characters" required><br><br>
+                    <input class="btn btn-default" type="submit" value="Login" name="btn_login" href="profile.html">
+                    <br>
+                </div>
+
+            </form><br><br>
+
+
+
+            <div class="three">Don't have an account yet? <a href="{% url 'user_register'%}"><b>Create an account</b></a>
+            </div> <br><br><br><br><br><br><br>
+
+            <div class="four">
+                Skill Portal
+            </div>
+        </div>
+
+    </div>
+
+</body>
+{% endblock %}

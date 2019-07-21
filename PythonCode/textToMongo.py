@@ -5,12 +5,12 @@ client = MongoClient()
 db = client.test_database  # use a database called "test_database"
 collection = db.files   # and inside that DB, a collection called "files"
 
-txtDir = "D:/MajorProject/Python code/text/"
+txtDir = "C:/Users/Liza/Desktop/MajorCVAnalysis/Code/MajorProject/text/"
 if txtDir == "": txtDir = os.getcwd() + "\\"  # if no pdfDir passed in
 for txt in os.listdir(txtDir):
     fileExtension = txt.split(".")[-1]
     if fileExtension == "txt":
-        f = open(txtDir + txt)  # open a file
+        f = open(txtDir + txt, encoding = 'utf-8' )  # open a file
         text = f.read()    # read the entire contents, should be UTF-8 text
 
         # build a document to be inserted
