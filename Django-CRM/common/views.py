@@ -437,6 +437,13 @@ def document_create(request):
             doc = form.save(commit=False)
             doc.created_by = request.user
             doc.save()
+            # for afile in request.FILES.getlist('document_file'):
+            #     new_file = Document(document_file=afile)
+            # post = form.save(commit=False)
+            # post.created_by = request.user
+            # post.document_file = form.cleaned_data.get('new_file')
+            # post.save()
+
             if request.POST.getlist('shared_to'):
                 doc.shared_to.add(*request.POST.getlist('shared_to'))
 
@@ -454,8 +461,8 @@ def document_create(request):
     context = {}
     context["doc_form"] = form
     context["users"] = users
-    context["sharedto_list"] = [
-        int(i) for i in request.POST.getlist('assigned_to', []) if i]
+    # context["sharedto_list"] = [
+    #     int(i) for i in request.POST.getlist('assigned_to', []) if i]
     context["errors"] = form.errors
     return render(request, template_name, context)
 

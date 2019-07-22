@@ -17,7 +17,7 @@
   <div class="row marl">
     <div class="col-lg-12 text-right">
       <span class="d-inline"><a class="primary_btn" href="{% url 'common:create_doc' %}"><i class="fa fa-plus"></i> Add
-          New Document</a></span>
+          CV Folder </a></span>
     </div>
   </div>
   <div class="filter_row list_filter_row row marl">
@@ -30,35 +30,35 @@
               <div class="row marl">
                 <div class="filter_col col-md-4">
                   <div class="form-group">
-                    <label for="exampleInputEmail1">Title</label>
+                    <label for="exampleInputEmail1">Folder Name</label>
                     <input type="text" class="form-control" placeholder="Document Title" name="doc_name"
                       {% if request.POST.doc_name %} value="{{request.POST.doc_name}}" {%endif%} />
                   </div>
                 </div>
-                <div class="filter_col col-md-2">
-                  <div class="form-group">
-                    <label for="exampleInputEmail1">Status</label>
-                    <select class="form-control" id="id_status" name="status">
-                      <option value="">--Status--</option>
-                      {% for each_status in status_choices %}
-                      <option value="{{each_status.0}}" {% if request.POST.status %}
-                        {% ifequal each_status.0 request.POST.status %}selected{% endifequal %}{% endif %}>
-                        {{each_status.1}} </option>
-                      {% endfor%}
-                    </select>
-                  </div>
-                </div>
-                <div class="filter_col col-md-3">
-                  <div class="form-group">
-                    <label for="exampleInputEmail1">Shared To</label>
-                    <select class="assigned_users form-control" name="shared_to" multiple="multiple">
-                      {% for user in users %}
-                      <option value="{{user.id}}" {% if user.id in sharedto_list %} selected="" {% endif %}>
-                        {{user.email}}</option>
-                      {% endfor %}
-                    </select>
-                  </div>
-                </div>
+                <!--<div class="filter_col col-md-2">-->
+                  <!--<div class="form-group">-->
+                    <!--<label for="exampleInputEmail1">Status</label>-->
+                    <!--<select class="form-control" id="id_status" name="status">-->
+                      <!--<option value="">&#45;&#45;Status&#45;&#45;</option>-->
+                      <!--{% for each_status in status_choices %}-->
+                      <!--<option value="{{each_status.0}}" {% if request.POST.status %}-->
+                        <!--{% ifequal each_status.0 request.POST.status %}selected{% endifequal %}{% endif %}>-->
+                        <!--{{each_status.1}} </option>-->
+                      <!--{% endfor%}-->
+                    <!--</select>-->
+                  <!--</div>-->
+                <!--</div>-->
+                <!--<div class="filter_col col-md-3">-->
+                  <!--<div class="form-group">-->
+                    <!--<label for="exampleInputEmail1">Shared To</label>-->
+                    <!--<select class="assigned_users form-control" name="shared_to" multiple="multiple">-->
+                      <!--{% for user in users %}-->
+                      <!--<option value="{{user.id}}" {% if user.id in sharedto_list %} selected="" {% endif %}>-->
+                        <!--{{user.email}}</option>-->
+                      <!--{% endfor %}-->
+                    <!--</select>-->
+                  <!--</div>-->
+                <!--</div>-->
                 <div class="filter_col col-3">
                   <div class="form-group buttons_row">
                     <button class="btn btn-primary save" type="submit">Search</button>
@@ -78,7 +78,7 @@
       <div class="card">
         <div class="card-body">
           <div class="panel-heading-list card-title text-right">
-            <span class="total_count float-left">Documents - {% if show_pageitems %} {% show_pageitems %}{% else %}
+            <span class="total_count float-left">Resume Folders - {% if show_pageitems %} {% show_pageitems %}{% else %}
               {{documents|length}}{% endif %}</span>
             <span class="filter_toggle ">
               <a href="#" class="primary_btn"><i class="fas fa-filter"></i></a>
@@ -90,11 +90,11 @@
                 {% if documents|length > 0 %}
                 <tr>
                   <th width="5%">S.No</th>
-                  <th width="15%">Title</th>
+                  <th width="15%">CV Folder Name</th>
                   <th width="5%">Created By</th>
                   <th width="15%">Created On</th>
-                  <th width="5%">Status</th>
-                  <th width="20%">Shared To</th>
+                  <!--<th width="5%">Status</th>-->
+                  <!--<th width="20%">Shared To</th>-->
                   <th width="10%">Actions</th>
                 </tr>
                 {% endif %}
@@ -125,32 +125,32 @@
                     {% endif %}
                   </td>
                   <td title="{{document.created_on}}">{{document.created_on_arrow}}</td>
-                  <td>{{document.status}}</td>
-                  <td>
-                    {% with document_users=document.shared_to.all %}
-                    {% for user in document_users %}
-                    {% if user.profile_pic %}
-                    {% thumbnail user.profile_pic "40x40" crop="center" as im %}
-                    <a href="{% url 'common:view_user' user.id %}">
-                      <img src="{{ im.url }}" width="{{ im.width }}" height="{{ im.height }}" title="{{ user.email }}">
-                    </a>
-                    {% endthumbnail %}
-                    {% else %}
-                    <a href="{% url 'common:view_user' user.id %}">
-                      <img src="{% static 'images/user.png' %}" title="{{ user.email }}" width="40" height="40">
-                    </a>
-                    {% endif %}
-                    {% empty %}
-                    None
-                    {% endfor %}
-                    {% endwith %}
-                  </td>
+                  <!--<td>{{document.status}}</td>-->
+                  <!--<td>-->
+                    <!--{% with document_users=document.shared_to.all %}-->
+                    <!--{% for user in document_users %}-->
+                    <!--{% if user.profile_pic %}-->
+                    <!--{% thumbnail user.profile_pic "40x40" crop="center" as im %}-->
+                    <!--<a href="{% url 'common:view_user' user.id %}">-->
+                      <!--<img src="{{ im.url }}" width="{{ im.width }}" height="{{ im.height }}" title="{{ user.email }}">-->
+                    <!--</a>-->
+                    <!--{% endthumbnail %}-->
+                    <!--{% else %}-->
+                    <!--<a href="{% url 'common:view_user' user.id %}">-->
+                      <!--<img src="{% static 'images/user.png' %}" title="{{ user.email }}" width="40" height="40">-->
+                    <!--</a>-->
+                    <!--{% endif %}-->
+                    <!--{% empty %}-->
+                    <!--None-->
+                    <!--{% endfor %}-->
+                    <!--{% endwith %}-->
+                  <!--</td>-->
                   <td class="actions">
                     {% if request.user == document.created_by or request.user.role == 'ADMIN' %}
                     <a href="{% url 'common:view_doc' document.id %}" class="btn btn-info edit"><i
                       class="fas fa-eye"></i></a>
-                    <a href="{% url 'common:edit_doc' document.id %}" class="btn btn-success edit"><i
-                        class="fas fa-pencil-alt"></i></a>
+                    <!--<a href="{% url 'common:edit_doc' document.id %}" class="btn btn-success edit"><i-->
+                        <!--class="fas fa-pencil-alt"></i></a>-->
                     <a href="{% url 'common:remove_doc' document.id %}" class="btn btn-danger delete remove_document"><i
                         class="fas fa-trash-alt"></i></a>
                     {% endif %}
@@ -165,7 +165,7 @@
             </table>
           </div>
           {% ifequal documents|length 0 %}
-          <h6 class="text-center">No Documents Found</h6>
+          <h6 class="text-center">No Folder Found</h6>
           {% endifequal %}
           <div class="text-center row marl">
             {% show_pages %}
@@ -202,10 +202,10 @@
               <div class="card">
                 <div class="card-body" id="datashow">
                   <div class="panel-heading card-title view-pad text-center">
-                    <!-- <h5>
+                    <h5>
                       Document
                     </h5> -->
-                    <!-- <a href="{% url 'common:edit_doc' doc_obj.id %}" class="btn btn-success edit">Edit</a> -->
+                     <a href="{% url 'common:edit_doc' doc_obj.id %}" class="btn btn-success edit">Edit</a>
                   </div>
                   <div class="row marl no-gutters">
                     <div class="col-md-8">
@@ -277,8 +277,8 @@
                       <div class="profile_pic">
                         {% if doc_obj.document_file %}
                         <i class="{{file_type_code}}" aria-hidden="true" style="font-size:3rem;"></i>
-                        <!-- <a href="{{doc_obj.document_file.url}}" target="_blank">Download</a> -->
-                        <!-- <a style="display:block;" href="{% url 'common:download_document' doc_obj.id %}">Download</a> -->
+                         <a href="{{doc_obj.document_file.url}}" target="_blank">Download</a>
+                         <a style="display:block;" href="{% url 'common:download_document' doc_obj.id %}">Download</a>
                         </td>
                         {% endif %}
                       </div>

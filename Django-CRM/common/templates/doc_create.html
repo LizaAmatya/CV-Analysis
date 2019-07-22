@@ -19,20 +19,20 @@
       <div class="card">
         <div class="card-body">
           <div class="card-title text-center">
-            {% if doc_obj %}EDIT{% else %}CREATE{% endif %} DOCUMENT
+            {% if doc_obj %}EDIT{% else %}CV{% endif %} UPLOAD
           </div>
           <div class="row marl">
             <div class="col-md-12">
               <div class="filter_col col-md-12">
                 <div class="form-group">
-                  <label for="id_firstname">Title {% if doc_form.title.field.required %}<span class="error_marker" style="color:red">*</span>{% endif %}</label>
+                  <label for="id_firstname">Folder Name{% if doc_form.title.field.required %}<span class="error_marker" style="color:red">*</span>{% endif %}</label>
                   <input type="text" id="title" class="form-control" name="title" value="{% if doc_obj %}{{ doc_obj.title }}{% else %}{{request.POST.title}}{% endif %}" placeholder="Document title">
                 </div>
                 <span class="error" id="id_title">{{ errors.title }}</span>
               </div>
               <div class="filter_col col-md-12">
                 <div class="form-group">
-                  <label for="exampleInputEmail1">Upload Document {% if doc_form.document_file.field.required %}<span class="error_marker" style="color:red">*</span>{% endif %}</label>
+                  <label for="exampleInputEmail1">Upload Folder{% if doc_form.document_file.field.required %}<span class="error_marker" style="color:red">*</span>{% endif %}</label>
                   <input type="file" name="document_file" class="form-control" id="document_file" />
                 </div>
                 {% if doc_obj %}<span>{{doc_file_name}}</span>{% endif %}
@@ -41,24 +41,24 @@
               {% if request.user.is_superuser or request.user.role == 'ADMIN' %}
               <div class="filter_col col-12">
                 <div class="form-group">
-                  <label for="id_sattus">Teams{% if doc_form.teams.field.required %}<span
-                      class="error">*</span>{% endif %}</label>
-                  {{ doc_form.teams }}
-                  <span class="error" id="id__teams">{{ doc_form.teams.errors }}</span>
+                  <!--<label for="id_sattus">Teams{% if doc_form.teams.field.required %}<span-->
+                      <!--class="error">*</span>{% endif %}</label>-->
+                  <!--{{ doc_form.teams }}-->
+                  <!--<span class="error" id="id__teams">{{ doc_form.teams.errors }}</span>-->
                 </div>
               </div>
               {% endif %}
               <div class="filter_col col-md-12">
                 <div class="form-group">
-                  <label for="exampleInputEmail1">Share To{% if doc_form.shared_to.field.required %}<span class="error">*</span>{% endif %}</label>
-                  <select class="assigned_users form-control" name="shared_to" multiple="multiple">
-                  {% for user in users %}
-                  {% if user != request.user %}
-                    <option value="{{user.id}}" {% if user in doc_obj.shared_to.all or user.id in sharedto_list %} selected="" {% endif %}>{{user.email}}</option>
-                  {% endif %}
-                  {% endfor %}
-                  </select>
-                  {{ errors.shared_to.errors }}
+                  <!--<label for="exampleInputEmail1">Share To{% if doc_form.shared_to.field.required %}<span class="error">*</span>{% endif %}</label>-->
+                  <!--<select class="assigned_users form-control" name="shared_to" multiple="multiple">-->
+                  <!--{% for user in users %}-->
+                  <!--{% if user != request.user %}-->
+                    <!--<option value="{{user.id}}" {% if user in doc_obj.shared_to.all or user.id in sharedto_list %} selected="" {% endif %}>{{user.email}}</option>-->
+                  <!--{% endif %}-->
+                  <!--{% endfor %}-->
+                  <!--</select>-->
+                  <!--{{ errors.shared_to.errors }}-->
                 </div>
               </div>
               <p></p>
@@ -74,7 +74,7 @@
             </div>
           </div>
           <div class="row marl buttons_row form_btn_row text-center">
-            <button class="btn btn-default save" type="submit" id="submit_btn">Save</button>
+            <button class="btn btn-default save" type="submit" id="submit_btn">Upload</button>
             <a href="{% url 'common:doc_list' %}" class="btn btn-default clear" id="create_doc_cancel">Cancel</a>
 
           </div>
