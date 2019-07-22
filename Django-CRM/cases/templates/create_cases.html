@@ -6,7 +6,7 @@
 {% endblock %}
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="{% url 'cases:list' %}">Cases</a></li>
+    <li class="breadcrumb-item"><a href="{% url 'cases:list' %}">Job Description</a></li>
     <li class="breadcrumb-item active">{% if case_obj %}Edit{% else %}Create{% endif %}</li>
   </ol>
 </nav>
@@ -24,11 +24,12 @@
             <div class="col-md-4">
               <div class="filter_col col-md-12">
                 <div class="form-group">
-                  <label for="id_name" class="required">Name{% if case_form.name.field.required %}<span class="error">*</span>{% endif %}</label>
+                  <label for="id_name" class="required">Job Title{% if case_form.name.field.required %}<span class="error">*</span>{% endif %}</label>
                   {{ case_form.name }}
                   <span class="error error_message" id="error_id_name">{{ case_form.name.errors }}</span>
                 </div>
               </div>
+
               <div class="filter_col col-md-12">
                 <div class="form-group">
                   <label for="id_status" class="required">Status{% if case_form.status.field.required %}<span class="error">*</span>{% endif %}</label>
@@ -36,6 +37,15 @@
                   <span class="error error_message" id="error_id_status">{{ case_form.status.errors }}</span>
                 </div>
               </div>
+
+              <div class="filter_col col-md-12">
+                <div class="form-group">
+                  <label for="id_requirements" class="required">Number of People required{% if case_form.requirements.field.required %}<span class="error">*</span>{% endif %}</label>
+                  {{ case_form.requirements }}
+                  <span class="error error_message" id="error_id_requirements">{{ case_form.requirements.error }}</span>
+                </div>
+              </div>
+
               <div class="filter_col col-md-12">
                 <div class="form-group">
                   <label for="id_priority" class="required">Priority{% if case_form.priority.field.required %}<span class="error">*</span>{% endif %}</label>
@@ -43,6 +53,7 @@
                   <span class="error error_message" id="error_id_priority">{{ case_form.priority.errors }}</span>
                 </div>
               </div>
+
               <div class="filter_col col-md-12">
                 <div class="form-group">
                   <label for="id_case_type">Type of Case{% if case_form.case_type.field.required %}<span class="error">*</span>{% endif %}</label>
@@ -50,8 +61,35 @@
                   <span class="error error_message" id="error_id_case_type">{{ case_form.case_type.errors }}</span>
                 </div>
               </div>
+
             </div>
+
             <div class="col-md-4">
+
+                <div class="filter_col col-md-12">
+                 <div class="form-group">
+                  <label for="id_skill" class="required">Required Skills{% if case_form.skill.field.required %}<span class="error">*</span>{% endif %}</label>
+                  {{ case_form.skill }}
+                  <span class="error error_message" id="error_id_skill">{{ case_form.skill.errors }}</span>
+                </div>
+                </div>
+
+                <div class="filter_col col-md-12">
+                <div class="form-group">
+                  <label for="id_education" class="required">Required Education Level{% if case_form.education.field.required %}<span class="error">*</span>{% endif %}</label>
+                  {{ case_form.education }}
+                  <span class="error error_message" id="error_id_education">{{ case_form.education.errors }}</span>
+                </div>
+                </div>
+
+                <div class="filter_col col-md-12">
+                <div class="form-group">
+                  <label for="id_experience" class="required">Required Experience{% if case_form.experience.field.required %}<span class="error">*</span>{% endif %}</label>
+                  {{ case_form.experience }}
+                  <span class="error error_message" id="error_id_experience">{{ case_form.experience.errors }}</span>
+                </div>
+                </div>
+
               <div class="filter_col col-md-12">
                 <div class="form-group">
                   <label for="exampleInputEmail1" class="required">Close Date{% if case_form.closed_on.field.required %}<span class="error">*</span>{% endif %}</label>
@@ -64,66 +102,74 @@
                   <span class="error error_message" id="error_id_closed_on">{{ case_form.closed_on.errors }}</span>
                 </div>
               </div>
-              {% if request.user.is_superuser or request.user.role == 'ADMIN' %}
-              <div class="filter_col col-12">
-                <div class="form-group">
-                  <label for="id_sattus">Teams{% if case_form.teams.field.required %}<span
-                      class="error">*</span>{% endif %}</label>
-                  {{ case_form.teams }}
-                  <span class="error" id="id__teams">{{ case_form.teams.errors }}</span>
-                </div>
-              </div>
-              {% endif %}
-              <div class="filter_col col-md-12">
-                <div class="form-group">
-                  <label for="exampleInputEmail1">Assigned Users</label>
-                  <select class="assigned_users form-control" name="assigned_to" multiple="multiple">
-                  {% for user in users %}
-                  <option value="{{user.id}}" {% if user in case_obj.assigned_to.all or user.id in assignedto_list %} selected="" {% endif %}>{{user.email}}</option>
-                  {% endfor %}
-                  </select>
-                  <span class="error error_message" id="error_id_assigned_to">{{ case_form.assigned_to.errors }}</span>
-                </div>
-              </div>
-              <div class="filter_col col-md-12">
-                <div class="form-group">
-                  <label for="id_account">Account{% if case_form.account.field.required %}<span class="error">*</span>{% endif %}</label>
-                  {% if account %}
-                  <select name="account" placeholder="Account" class="form-control" id="id_account" readonly>
-                    <option value="{{account.id}}" selected="">{{account.name}}</option>
-                  </select>
-                  {% else %}
-                  {{case_form.account}}
-                  {% endif %}
-                  <span class="error error_message" id="error_id_account">{{case_form.account.errors}}</span>
-                </div>
-              </div>
-              <div class="filter_col col-md-12">
-                <div class="form-group">
-                  <label for="exampleInputEmail1">Attachment</label>
-                  <input type="file" name="case_attachment" id="case_attachment">
-                  {% if case_obj.case_attachment.count %}
-                    {% for attachment in case_obj.case_attachment.all %}
-                    <div id="attachment{{attachment.id}}" class="mt-2">
-                      <a target="_blank" href="{{ attachment.attachment.url }}">{{ attachment.file_name }}</a>
-                      {% if not attachment.created_by.role == 'ADMIN' or attachment.created_by.role == request.user.role %}
-                      <a class="action btn primary_btn"  onclick="remove_attachment({{attachment.id}})">X</a>
-                      {% endif %}
-                    </div>
-                    {% endfor %}
-                  {% endif %}
-                  <span class="error error_message" id="error_id_case_attachment"></span>
-                </div>
-              </div>
             </div>
-            <div class="col-md-4">
-              <div class="filter_col col-md-12">
-                <div class="form-group">
-                  <label for="id_contacts">Contacts{% if case_form.contacts.field.required %}<span class="error">*</span>{% endif %}</label>
-                  {{ case_form.contacts }}
-                  <span class="error error_message" id="error_id_contacts">{{case_form.contacts.errors}}</span>
-                </div>
-              </div>
+
+              <!--{% if request.user.is_superuser or request.user.role == 'ADMIN' %}-->
+              <!--<div class="filter_col col-12">-->
+                <!--<div class="form-group">-->
+                  <!--<label for="id_sattus">Teams{% if case_form.teams.field.required %}<span-->
+                      <!--class="error">*</span>{% endif %}</label>-->
+                  <!--{{ case_form.teams }}-->
+                  <!--<span class="error" id="id__teams">{{ case_form.teams.errors }}</span>-->
+                <!--</div>-->
+              <!--</div>-->
+              <!--{% endif %}-->
+
+              <!--<div class="filter_col col-md-12">-->
+                <!--<div class="form-group">-->
+                  <!--<label for="exampleInputEmail1">Assigned Users</label>-->
+                  <!--<select class="assigned_users form-control" name="assigned_to" multiple="multiple">-->
+                  <!--{% for user in users %}-->
+                  <!--<option value="{{user.id}}" {% if user in case_obj.assigned_to.all or user.id in assignedto_list %} selected="" {% endif %}>{{user.email}}</option>-->
+                  <!--{% endfor %}-->
+                  <!--</select>-->
+                  <!--<span class="error error_message" id="error_id_assigned_to">{{ case_form.assigned_to.errors }}</span>-->
+                <!--</div>-->
+              <!--</div>-->
+
+              <!--<div class="filter_col col-md-12">-->
+                <!--<div class="form-group">-->
+                  <!--<label for="id_account">Account{% if case_form.account.field.required %}<span class="error">*</span>{% endif %}</label>-->
+                  <!--{% if account %}-->
+                  <!--<select name="account" placeholder="Account" class="form-control" id="id_account" readonly>-->
+                    <!--<option value="{{account.id}}" selected="">{{account.name}}</option>-->
+                  <!--</select>-->
+                  <!--{% else %}-->
+                  <!--{{case_form.account}}-->
+                  <!--{% endif %}-->
+                  <!--<span class="error error_message" id="error_id_account">{{case_form.account.errors}}</span>-->
+                <!--</div>-->
+              <!--</div>-->
+
+              <!--<div class="filter_col col-md-12">-->
+                <!--<div class="form-group">-->
+                  <!--<label for="exampleInputEmail1">Attachment</label>-->
+                  <!--<input type="file" name="case_attachment" id="case_attachment">-->
+                  <!--{% if case_obj.case_attachment.count %}-->
+                    <!--{% for attachment in case_obj.case_attachment.all %}-->
+                    <!--<div id="attachment{{attachment.id}}" class="mt-2">-->
+                      <!--<a target="_blank" href="{{ attachment.attachment.url }}">{{ attachment.file_name }}</a>-->
+                      <!--{% if not attachment.created_by.role == 'ADMIN' or attachment.created_by.role == request.user.role %}-->
+                      <!--<a class="action btn primary_btn"  onclick="remove_attachment({{attachment.id}})">X</a>-->
+                      <!--{% endif %}-->
+                    <!--</div>-->
+                    <!--{% endfor %}-->
+                  <!--{% endif %}-->
+                  <!--<span class="error error_message" id="error_id_case_attachment"></span>-->
+                <!--</div>-->
+              <!--</div>-->
+
+            </div>
+
+            <!--<div class="col-md-4">-->
+              <!--<div class="filter_col col-md-12">-->
+                <!--<div class="form-group">-->
+                  <!--<label for="id_contacts">Contacts{% if case_form.contacts.field.required %}<span class="error">*</span>{% endif %}</label>-->
+                  <!--{{ case_form.contacts }}-->
+                  <!--<span class="error error_message" id="error_id_contacts">{{case_form.contacts.errors}}</span>-->
+                <!--</div>-->
+              <!--</div>-->
+
               <div class="filter_col col-md-12">
                 <div class="form-group">
                   <label for="id_description">Description{% if case_form.description.field.required %}<span class="error">*</span>{% endif %}</label>
@@ -131,7 +177,9 @@
                   <span class="error error_message" id="error_id_description">{{ case_form.description.errors }}</span>
                 </div>
               </div>
+
             </div>
+
             <input type="hidden" name="from_account" value="{{request.GET.view_account}}">
             {% if request.GET.view_account %}
             <input type="hidden" name="account" value="{{request.GET.view_account}}">

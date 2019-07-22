@@ -93,6 +93,8 @@ def create_case(request):
         users = User.objects.filter(role='ADMIN').order_by('email')
     accounts = Account.objects.filter(status="open")
     contacts = Contact.objects.all()
+    cases = Case.objects.all()
+
     if request.user.role != "ADMIN" and not request.user.is_superuser:
         accounts = Account.objects.filter(
             created_by=request.user)
@@ -167,7 +169,11 @@ def create_case(request):
     if request.GET.get('view_account'):
         context['account'] = get_object_or_404(
             Account, id=request.GET.get('view_account'))
-    context["contacts"] = contacts
+    # context["requirements"] = cases
+    # context["skill"] = cases
+    # context["education"] = cases
+    # context["experience"] = cases
+    # context["contacts"] = contacts
     context["users"] = users
     context["case_types"] = CASE_TYPE
     context["case_priority"] = PRIORITY_CHOICE

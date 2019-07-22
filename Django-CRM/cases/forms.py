@@ -31,7 +31,7 @@ class CaseForm(forms.ModelForm):
 
     class Meta:
         model = Case
-        fields = ('assigned_to', 'name', 'status',
+        fields = ('assigned_to', 'name', 'status','requirements', 'skill', 'education', 'experience',
                   'priority', 'case_type', 'account',
                   'contacts', 'closed_on', 'description')
 

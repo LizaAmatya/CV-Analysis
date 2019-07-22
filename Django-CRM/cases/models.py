@@ -13,6 +13,14 @@ class Case(models.Model):
     name = models.CharField(
         pgettext_lazy("Name of the case", "Name"),
         max_length=64)
+
+    requirements = models.CharField(max_length=100,  default="", editable=False)
+    skill = models.CharField(max_length=100, default="", editable=False)
+    education = models.CharField(max_length=100, default="", editable=False)
+    experience = models.CharField(max_length=100, default="", editable=False)
+    description = models.TextField(blank=True, default="", editable=False)
+    closed_on = models.DateField()
+
     status = models.CharField(choices=STATUS_CHOICE, max_length=64)
     priority = models.CharField(choices=PRIORITY_CHOICE, max_length=64)
     case_type = models.CharField(
@@ -21,8 +29,8 @@ class Case(models.Model):
         Account, on_delete=models.CASCADE, blank=True, null=True)
     contacts = models.ManyToManyField(Contact)
     # closed_on = models.DateTimeField()
-    closed_on = models.DateField()
-    description = models.TextField(blank=True, null=True)
+    #     closed_on = models.DateField()
+    # description = models.TextField(blank=True, null=True)
     assigned_to = models.ManyToManyField(
         User, related_name='case_assigned_users')
     created_by = models.ForeignKey(
