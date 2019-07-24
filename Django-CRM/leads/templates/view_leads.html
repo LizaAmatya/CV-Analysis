@@ -47,24 +47,28 @@
           </div>
           <div class="row marl">
             <div class="col-md-4">
-              <div class="filter_col col-md-12" id="iname">
-                <div class="form-group">
-                  <label class="lead_field_label" for="id_name" data-name="name">Name</label>
-                  <div class="lead_field" id="lead_name" data-name="name"> {% if lead_record.first_name  %}
-                    {{ lead_record.first_name }}{% endif %} {% if lead_record.last_name  %}
-                    {{ lead_record.last_name }}{% endif %}</div>
-                </div>
-              </div>
-              <div class="filter_col col-md-12">
-                <div class="form-group">
-                  <label class="lead_field_label" for="id_contact_account" data-name="name">Account Name</label>
-                  {% if lead_record.account_name %}
-                  <div class="lead_field" id="contact_account" data-name="name">{{ lead_record.account_name }}</div>
-                  {% else %}
-                  <div class="lead_field">Not Specified</div>
-                  {% endif %}
-                </div>
-              </div>
+
+
+              <!--<div class="filter_col col-md-12" id="iname">-->
+                <!--<div class="form-group">-->
+                  <!--<label class="lead_field_label" for="id_name" data-name="name">Name</label>-->
+                  <!--<div class="lead_field" id="lead_name" data-name="name"> {% if lead_record.first_name  %}-->
+                    <!--{{ lead_record.first_name }}{% endif %} {% if lead_record.last_name  %}-->
+                    <!--{{ lead_record.last_name }}{% endif %}</div>-->
+                <!--</div>-->
+              <!--</div>-->
+
+              <!--<div class="filter_col col-md-12">-->
+                <!--<div class="form-group">-->
+                  <!--<label class="lead_field_label" for="id_contact_account" data-name="name">Account Name</label>-->
+                  <!--{% if lead_record.account_name %}-->
+                  <!--<div class="lead_field" id="contact_account" data-name="name">{{ lead_record.account_name }}</div>-->
+                  <!--{% else %}-->
+                  <!--<div class="lead_field">Not Specified</div>-->
+                  <!--{% endif %}-->
+                <!--</div>-->
+              <!--</div>-->
+
               <div class="filter_col col-md-12">
                 <div class="form-group">
                   <label class="lead_field_label" for="id_title" data-name="name">Title</label>
@@ -75,6 +79,53 @@
                   {% endif %}
                 </div>
               </div>
+
+
+              <div class="filter_col col-md-12">
+                <div class="form-group">
+                  <label class="lead_field_label" for="id_title" data-name="name">Number of people required</label>
+                  {% if lead_record.required %}
+                  <div class="lead_field" id="lead_required" data-name="name">{{ lead_record.required }}</div>
+                  {% else %}
+                  <div class="lead_field">Not Specified</div>
+                  {% endif %}
+                </div>
+              </div>
+
+              <div class="filter_col col-md-12">
+                <div class="form-group">
+                  <label class="lead_field_label" for="id_title" data-name="name">Required Skill</label>
+                  {% if lead_record.skill %}
+                  <div class="lead_field" id="lead_skill" data-name="name">{{ lead_record.skill }}</div>
+                  {% else %}
+                  <div class="lead_field">Not Specified</div>
+                  {% endif %}
+                </div>
+              </div>
+
+              <div class="filter_col col-md-12">
+                <div class="form-group">
+                  <label class="lead_field_label" for="id_title" data-name="name">Required Education</label>
+                  {% if lead_record.education %}
+                  <div class="lead_field" id="lead_education" data-name="name">{{ lead_record.education }}</div>
+                  {% else %}
+                  <div class="lead_field">Not Specified</div>
+                  {% endif %}
+                </div>
+              </div>
+
+              <div class="filter_col col-md-12">
+                <div class="form-group">
+                  <label class="lead_field_label" for="id_title" data-name="name">Required Experience</label>
+                  {% if lead_record.experience %}
+                  <div class="lead_field" id="lead_experience" data-name="name">{{ lead_record.experience }}</div>
+                  {% else %}
+                  <div class="lead_field">Not Specified</div>
+                  {% endif %}
+                </div>
+              </div>
+
+
               <div class="filter_col col-md-12">
                 <div class="form-group">
                   <label class="lead_field_label" for="id_phone" data-name="name">Phone</label>
@@ -87,60 +138,61 @@
               </div>
 
             </div>
+
             <div class="col-md-4">
               <div class="filter_col col-md-12">
-                <div class="form-group">
-                  <label class="lead_field_label" for="id_email" data-name="name">Email</label>
-                  {% if lead_record.email %}
-                  <div class="lead_field" id="lead_email" data-name="name">{{ lead_record.email }}</div>
-                  {% else %}
-                  <div class="lead_field">Not Specified</div>
-                  {% endif %}
-                </div>
+                <!--<div class="form-group">-->
+                  <!--<label class="lead_field_label" for="id_email" data-name="name">Email</label>-->
+                  <!--{% if lead_record.email %}-->
+                  <!--<div class="lead_field" id="lead_email" data-name="name">{{ lead_record.email }}</div>-->
+                  <!--{% else %}-->
+                  <!--<div class="lead_field">Not Specified</div>-->
+                  <!--{% endif %}-->
+                <!--</div>-->
               </div>
-              <div class="filter_col col-md-12">
-                <div class="form-group">
-                  <label class="lead_field_label" for="id_status" data-name="name">Status</label>
-                  {% if lead_record.status %}
-                  <div class="lead_field" id="lead_status" data-name="name">{{ lead_record.status }}</div>
-                  {% else %}
-                  <div class="lead_field">Not Specified</div>
-                  {% endif %}
-                </div>
-              </div>
-              <div class="filter_col col-md-12">
-                <div class="form-group">
-                  <label class="lead_field_label" for="id_source" data-name="name">Source</label>
-                  {% if lead_record.source %}
-                  <div class="lead_field" id="lead_source" data-name="name">{{ lead_record.source }}</div>
-                  {% else %}
-                  <div class="lead_field">Not Specified</div>
-                  {% endif %}
-                </div>
-              </div>
-              <div class="filter_col col-md-12">
-                <div class="form-group">
-                  <label class="lead_field_label" for="id_website" data-name="name">Website</label>
-                  {% if lead_record.website %}
-                  <div class="lead_field" id="lead_website" data-name="name">{{ lead_record.website }}</div>
-                  {% else %}
-                  <div class="lead_field">Not Specified</div>
-                  {% endif %}
-                </div>
-              </div>
+              <!--<div class="filter_col col-md-12">-->
+                <!--<div class="form-group">-->
+                  <!--<label class="lead_field_label" for="id_status" data-name="name">Status</label>-->
+                  <!--{% if lead_record.status %}-->
+                  <!--<div class="lead_field" id="lead_status" data-name="name">{{ lead_record.status }}</div>-->
+                  <!--{% else %}-->
+                  <!--<div class="lead_field">Not Specified</div>-->
+                  <!--{% endif %}-->
+                <!--</div>-->
+              <!--</div>-->
+              <!--<div class="filter_col col-md-12">-->
+                <!--<div class="form-group">-->
+                  <!--<label class="lead_field_label" for="id_source" data-name="name">Source</label>-->
+                  <!--{% if lead_record.source %}-->
+                  <!--<div class="lead_field" id="lead_source" data-name="name">{{ lead_record.source }}</div>-->
+                  <!--{% else %}-->
+                  <!--<div class="lead_field">Not Specified</div>-->
+                  <!--{% endif %}-->
+                <!--</div>-->
+              <!--</div>-->
+              <!--<div class="filter_col col-md-12">-->
+                <!--<div class="form-group">-->
+                  <!--<label class="lead_field_label" for="id_website" data-name="name">Website</label>-->
+                  <!--{% if lead_record.website %}-->
+                  <!--<div class="lead_field" id="lead_website" data-name="name">{{ lead_record.website }}</div>-->
+                  <!--{% else %}-->
+                  <!--<div class="lead_field">Not Specified</div>-->
+                  <!--{% endif %}-->
+                <!--</div>-->
+              <!--</div>-->
             </div>
             <div class="col-md-4">
 
-              <div class="filter_col col-md-12">
-                <div class="form-group">
-                  {% if lead_record.address_line or lead_record.street or lead_record.city or lead_record.state or lead_record.postcode or lead_record.country %}
-                  <label class="lead_field_label" for="id_address" data-name="name">Billing Address</label>
-                  <div class="lead_field" id="lead_address" data-name="name">
-                    {{lead_record.get_complete_address}}
-                  </div>
-                  {% endif %}
-                </div>
-              </div>
+              <!--<div class="filter_col col-md-12">-->
+                <!--<div class="form-group">-->
+                  <!--{% if lead_record.address_line or lead_record.street or lead_record.city or lead_record.state or lead_record.postcode or lead_record.country %}-->
+                  <!--<label class="lead_field_label" for="id_address" data-name="name">Billing Address</label>-->
+                  <!--<div class="lead_field" id="lead_address" data-name="name">-->
+                    <!--{{lead_record.get_complete_address}}-->
+                  <!--</div>-->
+                  <!--{% endif %}-->
+                <!--</div>-->
+              <!--</div>-->
               <div class="filter_col col-md-12">
                 {% if lead_record.description %}
                 <div class="form-group">
@@ -159,145 +211,145 @@
         </div>
 
         <!-- Attachment Section start -->
-        <div>
-          <div class="card-body mar-top" id="datashow">
-            <div class="card-title view-pad">
-              <h5>Attachments</h5>
-            </div>
-            <div class="row marl">
-              <div class="col-md-12">
-                <form id="attachment_form" method="POST" enctype="multipart/form-data">
-                  <div class="form-group ">
-                    <input type="file" class="form-control-file" cols="40" id="id_attachments" name="attachment">
-                    <div>
-                      <p id="AttachmentError" style="display:none; color:red"></p>
-                    </div>
-                    <br>
-                    <div class="buttons_row">
-                      <button class="btn btn-default save" style="text-align: center;"
-                        id="attachment_submit">Save</button>
-                    </div>
-                  </div>
-                  <input type="hidden" value="{{lead_record.id}}" name="leadid">
-                </form>
-                <ul class="list-group" id="attachment_div">
-                  {% for attachment in attachments %}
-                  <li class="list-group-item list-row" id="attachment{{attachment.id}}">
-                    {% if request.user.is_superuser or request.user.role == 'ADMIN' or request.user == attachment.created_by %}
-                    <div class="float-right right-container">
-                      <div class="list-row-buttons btn-group float-right">
-                        <button class="action btn primary_btn"
-                          onclick="remove_attachment({{attachment.id}})">Remove</button>
-                      </div>
-                    </div>
-                    {% endif %}
+        <!--<div>-->
+          <!--<div class="card-body mar-top" id="datashow">-->
+            <!--<div class="card-title view-pad">-->
+              <!--<h5>Attachments</h5>-->
+            <!--</div>-->
+            <!--<div class="row marl">-->
+              <!--<div class="col-md-12">-->
+                <!--<form id="attachment_form" method="POST" enctype="multipart/form-data">-->
+                  <!--<div class="form-group ">-->
+                    <!--<input type="file" class="form-control-file" cols="40" id="id_attachments" name="attachment">-->
+                    <!--<div>-->
+                      <!--<p id="AttachmentError" style="display:none; color:red"></p>-->
+                    <!--</div>-->
+                    <!--<br>-->
+                    <!--<div class="buttons_row">-->
+                      <!--<button class="btn btn-default save" style="text-align: center;"-->
+                        <!--id="attachment_submit">Save</button>-->
+                    <!--</div>-->
+                  <!--</div>-->
+                  <!--<input type="hidden" value="{{lead_record.id}}" name="leadid">-->
+                <!--</form>-->
+                <!--<ul class="list-group" id="attachment_div">-->
+                  <!--{% for attachment in attachments %}-->
+                  <!--<li class="list-group-item list-row" id="attachment{{attachment.id}}">-->
+                    <!--{% if request.user.is_superuser or request.user.role == 'ADMIN' or request.user == attachment.created_by %}-->
+                    <!--<div class="float-right right-container">-->
+                      <!--<div class="list-row-buttons btn-group float-right">-->
+                        <!--<button class="action btn primary_btn"-->
+                          <!--onclick="remove_attachment({{attachment.id}})">Remove</button>-->
+                      <!--</div>-->
+                    <!--</div>-->
+                    <!--{% endif %}-->
 
-                    <div class="stream-post-container" id="attachment_name{{attachment.id}}">
-                      {% if attachment.attachment %}
-                      {% if 'image' in attachment.file_type %}
-                      {% thumbnail attachment.attachment "80x80" crop="center" as im %}
-                      <img src="{{ im.url }}" width="{{ im.width }}" height="{{ im.height }}" class="mb-2">
-                      {% endthumbnail %}
-                      {% endif %}
-                      {% endif %}
-                      <pre> <span class="icon"><i style="font-size:1.5rem;" class="{{attachment.get_file_type_display}}"></i> {{attachment.file_name}} </span> <a href="{% url 'common:download_attachment' attachment.id %}">Download</a></pre>
-                    </div>
+                    <!--<div class="stream-post-container" id="attachment_name{{attachment.id}}">-->
+                      <!--{% if attachment.attachment %}-->
+                      <!--{% if 'image' in attachment.file_type %}-->
+                      <!--{% thumbnail attachment.attachment "80x80" crop="center" as im %}-->
+                      <!--<img src="{{ im.url }}" width="{{ im.width }}" height="{{ im.height }}" class="mb-2">-->
+                      <!--{% endthumbnail %}-->
+                      <!--{% endif %}-->
+                      <!--{% endif %}-->
+                      <!--<pre> <span class="icon"><i style="font-size:1.5rem;" class="{{attachment.get_file_type_display}}"></i> {{attachment.file_name}} </span> <a href="{% url 'common:download_attachment' attachment.id %}">Download</a></pre>-->
+                    <!--</div>-->
 
-                    <div class="stream-container">
-                      <pre class="float-left">Uploaded by :{{ attachment.created_by }}</pre>
-                      <pre class="float-right">{{ attachment.created_on|date:'m/d/Y,  h:i A' }}</pre>
-                    </div>
-                  </li>
-                  {% endfor %}
-                </ul>
-              </div>
-            </div>
-          </div>
+                    <!--<div class="stream-container">-->
+                      <!--<pre class="float-left">Uploaded by :{{ attachment.created_by }}</pre>-->
+                      <!--<pre class="float-right">{{ attachment.created_on|date:'m/d/Y,  h:i A' }}</pre>-->
+                    <!--</div>-->
+                  <!--</li>-->
+                  <!--{% endfor %}-->
+                <!--</ul>-->
+              <!--</div>-->
+            <!--</div>-->
+          <!--</div>-->
           <!-- Attachment Section end -->
 
           <!-- Comments Section starts-->
-          <div>
-            <div class="card-body mar-top" id="datashow">
-              <div class="card-title view-pad">
-                <h5>Comments </h5>
-              </div>
-              <div class="row marl">
-                <div class="col-md-12">
-                  <form id="comment_form" method="POST" enctype="multipart/form-data">
-                    <div class="form-group ">
-                      <textarea class="form-control mentions" textarea cols="40" rows="3" id="id_comments"
-                        name="comment" placeholder="Submit Your Comments Here"></textarea>
-                      <div>
-                        <p id="CommentError" style="display:none; color:red"></p>
-                      </div>
-                      </br>
-                      <div class="buttons_row">
-                        <button class="btn btn-default save" style="text-align: center;"
-                          id="comment_submit">Submit</button>
-                      </div>
-                    </div>
-                    <input type="hidden" value="{{lead_record.id}}" name="leadid">
-                  </form>
-                  <ul class="list-group" id="comments_div">
-                    {% for comment in comments %}
-                    <li class="list-group-item list-row" id="comment{{comment.id}}">
-                      {% if request.user.is_superuser or request.user.role == 'ADMIN' or request.user == comment.commented_by %}
-                      <div class="float-right right-container">
-                        <div class="list-row-buttons btn-group float-right">
-                          <button class="btn primary_btn btn-sm dropdown-toggle" data-toggle="dropdown"
-                            type="button">Actions <span class="caret"></span></button>
-                          <ul class="dropdown-menu text-center">
-                            <li>
-                              <a class="action" onclick="edit_comment({{comment.id}})">Edit</a>
-                            </li>
-                            <li>
-                              <a class="action" onclick="remove_comment({{comment.id}})">Remove</a>
-                            </li>
-                          </ul>
-                        </div>
-                      </div>
-                      {% endif %}
-                      <div class="stream-post-container" id="comment_name{{comment.id}}">
-                        <pre>{{ comment.comment }}</pre>
-                      </div>
-                      <div class="stream-container">
-                        <pre class="float-left">{{ comment.commented_by}}</pre>
-                        <pre class="float-right date">{{ comment.commented_on|date:'m/d/Y,  h:i:s A' }}</pre>
-                      </div>
-                    </li>
-                    {% endfor %}
-                  </ul>
-                </div>
-              </div>
-              <div class="modal fade" id="Comments_Leads_Modal" role="dialog" data-keyboard="false"
-                data-backdrop="static">
-                <div class="modal-dialog modal-lg">
-                  <div class="modal-content">
-                    <div class="modal-header">
-                      <h4 class="modal-title">Update Your Comment</h4>
-                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">&times;</button>
+          <!--<div>-->
+            <!--<div class="card-body mar-top" id="datashow">-->
+              <!--<div class="card-title view-pad">-->
+                <!--<h5>Comments </h5>-->
+              <!--</div>-->
+              <!--<div class="row marl">-->
+                <!--<div class="col-md-12">-->
+                  <!--<form id="comment_form" method="POST" enctype="multipart/form-data">-->
+                    <!--<div class="form-group ">-->
+                      <!--<textarea class="form-control mentions" textarea cols="40" rows="3" id="id_comments"-->
+                        <!--name="comment" placeholder="Submit Your Comments Here"></textarea>-->
+                      <!--<div>-->
+                        <!--<p id="CommentError" style="display:none; color:red"></p>-->
+                      <!--</div>-->
+                      <!--</br>-->
+                      <!--<div class="buttons_row">-->
+                        <!--<button class="btn btn-default save" style="text-align: center;"-->
+                          <!--id="comment_submit">Submit</button>-->
+                      <!--</div>-->
+                    <!--</div>-->
+                    <!--<input type="hidden" value="{{lead_record.id}}" name="leadid">-->
+                  <!--</form>-->
+                  <!--<ul class="list-group" id="comments_div">-->
+                    <!--{% for comment in comments %}-->
+                    <!--<li class="list-group-item list-row" id="comment{{comment.id}}">-->
+                      <!--{% if request.user.is_superuser or request.user.role == 'ADMIN' or request.user == comment.commented_by %}-->
+                      <!--<div class="float-right right-container">-->
+                        <!--<div class="list-row-buttons btn-group float-right">-->
+                          <!--<button class="btn primary_btn btn-sm dropdown-toggle" data-toggle="dropdown"-->
+                            <!--type="button">Actions <span class="caret"></span></button>-->
+                          <!--<ul class="dropdown-menu text-center">-->
+                            <!--<li>-->
+                              <!--<a class="action" onclick="edit_comment({{comment.id}})">Edit</a>-->
+                            <!--</li>-->
+                            <!--<li>-->
+                              <!--<a class="action" onclick="remove_comment({{comment.id}})">Remove</a>-->
+                            <!--</li>-->
+                          <!--</ul>-->
+                        <!--</div>-->
+                      <!--</div>-->
+                      <!--{% endif %}-->
+                      <!--<div class="stream-post-container" id="comment_name{{comment.id}}">-->
+                        <!--<pre>{{ comment.comment }}</pre>-->
+                      <!--</div>-->
+                      <!--<div class="stream-container">-->
+                        <!--<pre class="float-left">{{ comment.commented_by}}</pre>-->
+                        <!--<pre class="float-right date">{{ comment.commented_on|date:'m/d/Y,  h:i:s A' }}</pre>-->
+                      <!--</div>-->
+                    <!--</li>-->
+                    <!--{% endfor %}-->
+                  <!--</ul>-->
+                <!--</div>-->
+              <!--</div>-->
+              <!--<div class="modal fade" id="Comments_Leads_Modal" role="dialog" data-keyboard="false"-->
+                <!--data-backdrop="static">-->
+                <!--<div class="modal-dialog modal-lg">-->
+                  <!--<div class="modal-content">-->
+                    <!--<div class="modal-header">-->
+                      <!--<h4 class="modal-title">Update Your Comment</h4>-->
+                      <!--<button type="button" class="close" data-dismiss="modal" aria-label="Close">&times;</button>-->
 
-                    </div>
-                    <form id="comment_edit_form" method="POST">
-                      <div class="modal-body">
-                        <div class="form-group">
-                          <textarea class="form-control mentions" textarea cols="40" rows="3" id="id_editcomment"
-                            name="comment" placeholder="Submit Your Comments" style="color:black;"></textarea><span>
-                            <p id="CommentEditError" style="display:none; color:red"></p>
-                          </span>
-                          <input type="hidden" value="{{ lead.id }}" name="leadid">
-                          <input type="hidden" value="" name="commentid" id="commentid">
-                        </div>
-                      </div>
-                      <div class="modal-footer">
-                        <button class="btn btn-default save" id="comment_edit" type="submit">Update</button>
-                      </div>
-                    </form>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+                    <!--</div>-->
+                    <!--<form id="comment_edit_form" method="POST">-->
+                      <!--<div class="modal-body">-->
+                        <!--<div class="form-group">-->
+                          <!--<textarea class="form-control mentions" textarea cols="40" rows="3" id="id_editcomment"-->
+                            <!--name="comment" placeholder="Submit Your Comments" style="color:black;"></textarea><span>-->
+                            <!--<p id="CommentEditError" style="display:none; color:red"></p>-->
+                          <!--</span>-->
+                          <!--<input type="hidden" value="{{ lead.id }}" name="leadid">-->
+                          <!--<input type="hidden" value="" name="commentid" id="commentid">-->
+                        <!--</div>-->
+                      <!--</div>-->
+                      <!--<div class="modal-footer">-->
+                        <!--<button class="btn btn-default save" id="comment_edit" type="submit">Update</button>-->
+                      <!--</div>-->
+                    <!--</form>-->
+                  <!--</div>-->
+                <!--</div>-->
+              <!--</div>-->
+            <!--</div>-->
+          <!--</div>-->
           <!-- Comments Section Ends-->
         </div>
       </div>

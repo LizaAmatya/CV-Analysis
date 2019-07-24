@@ -15,6 +15,12 @@ class Lead(models.Model):
     title = models.CharField(
         pgettext_lazy("Treatment Pronouns for the customer",
                       "Title"), max_length=64)
+    required = models.CharField(("Number of people required"), null=True, max_length=255)
+    skill = models.CharField(("Required Skill"), null=True, max_length=255)
+    education = models.CharField(("Required Education"), null=True, max_length=255)
+    experience = models.CharField(("Required Experience"), null=True, max_length=255)
+
+
     first_name = models.CharField(("First name"), null=True, max_length=255)
     last_name = models.CharField(("Last name"), null=True, max_length=255)
     email = models.EmailField(null=True, blank=True)

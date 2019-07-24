@@ -67,6 +67,28 @@ class LeadListView(SalesAccessRequiredMixin, LoginRequiredMixin, TemplateView):
             if request_post.getlist('assigned_to'):
                 queryset = queryset.filter(
                     assigned_to__id__in=request_post.getlist('assigned_to'))
+
+            # if request_post.getlist('title'):
+            #     queryset = queryset.filter(
+            #         assigned_to__id__in=request_post.getlist('title'))
+
+            if request_post.getlist('required'):
+                queryset = queryset.filter(
+                    assigned_to__id__in=request_post.getlist('required'))
+
+            if request_post.getlist('skill'):
+                queryset = queryset.filter(
+                    assigned_to__id__in=request_post.getlist('skill'))
+
+            if request_post.getlist('education'):
+                queryset = queryset.filter(
+                    assigned_to__id__in=request_post.getlist('education'))
+
+            if request_post.getlist('experience'):
+                queryset = queryset.filter(
+                    assigned_to__id__in=request_post.getlist('experience'))
+
+
         return queryset.distinct()
 
     def get_context_data(self, **kwargs):

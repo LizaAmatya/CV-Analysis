@@ -26,38 +26,48 @@
           <div class="row marl no-gutters">
             <div class="col-md-4">
               <div class="filter_col col-md-12">
-                <div class="form-group">
-                  <div class="row">
-                    <div class="filter_col col-md-6">
-                      <label for="exampleInputEmail1" class="name" >First Name{% if lead_form.first_name.field.required %}<span class="error">*</span>{% endif %}</label>
-                      {{ lead_form.first_name }}
-                      <span class="error error_message" id="error_id_first_name">{{ lead_form.first_name.errors }}</span>
-                    </div>
-                    <div class="filter_col col-md-6">
-                      <label for="exampleInputEmail1" class="name" >Last Name{% if lead_form.last_name.field.required %}<span class="error">*</span>{% endif %}</label>
-                      {{ lead_form.last_name }}
-                      <span class="error error_message" id="error_id_last_name">{{ lead_form.last_name.errors }}</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="filter_col col-md-12">
-                <div class="form-group">
-                  <label for="exampleInputEmail1" {% if request.POST.status == "converted" %} class="required" {% endif %}>Account Name{% if lead_form.account_name.field.required %}<span class="error">*</span>{% endif %}</label>
-                  {{ lead_form.account_name }}
-                  <span class="error error_message" id="error_id_account_name">{{ lead_form.account_name.errors }}</span>
-                  {% if error %}
-                  <span class="error error_message" id="error_id_}">{{ error }}</span>
-                  {% endif %}
-                </div>
-              </div>
-              <div class="filter_col col-md-12">
+
                 <div class="form-group">
                   <label for="exampleInputEmail1">Title{% if lead_form.title.field.required %}<span class="error">*</span>{% endif %}</label>
                   {{ lead_form.title }}
                   <span class="error error_message" id="error_id_title">{{ lead_form.title.errors }}</span>
                 </div>
               </div>
+
+              <div class="filter_col col-md-12">
+                <div class="form-group">
+                  <label for="exampleInputEmail1">Number of people required{% if lead_form.required.field.required %}<span class="error">*</span>{% endif %}</label>
+                  {{ lead_form.required }}
+                  <span class="error error_message" id="error_id_required">{{ lead_form.required.errors }}</span>
+                </div>
+              </div>
+
+              <div class="filter_col col-md-12">
+                <div class="form-group">
+                  <label for="exampleInputEmail1">Required Skill{% if lead_form.skill.field.required %}<span class="error">*</span>{% endif %}</label>
+                  {{ lead_form.skill }}
+                  <span class="error error_message" id="error_id_skill">{{ lead_form.skill.errors }}</span>
+                </div>
+              </div>
+
+              <div class="filter_col col-md-12">
+                <div class="form-group">
+                  <label for="exampleInputEmail1">Required Education{% if lead_form.education.field.required %}<span class="error">*</span>{% endif %}</label>
+                  {{ lead_form.education }}
+                  <span class="error error_message" id="error_id_education">{{ lead_form.education.errors }}</span>
+                </div>
+              </div>
+
+              <div class="filter_col col-md-12">
+                <div class="form-group">
+                  <label for="exampleInputEmail1">Required Experience{% if lead_form.experience.field.required %}<span class="error">*</span>{% endif %}</label>
+                  {{ lead_form.experience }}
+                  <span class="error error_message" id="error_id_experience">{{ lead_form.experience.errors }}</span>
+                </div>
+              </div>
+
+
+
               <div class="filter_col col-md-12">
                 <div class="form-group ">
                   <label for="exampleInputEmail1">Phone{% if lead_form.phone.field.required %}<span class="error">*</span>{% endif %}</label>
@@ -65,43 +75,7 @@
                   <span class="error error_message" id="error_id_phone">{{ lead_form.phone.errors }}</span>
                 </div>
               </div>
-              <div class="filter_col col-md-12">
-                <div class="form-group ">
-                  <label for="exampleInputEmail1" class="required">Email Address{% if lead_form.email.field.required %}<span class="error">*</span>{% endif %}</label>
-                  {{ lead_form.email }}
-                  <span class="error error_message" id="error_id_email">{{ lead_form.email.errors }}</span>
-                  {% if error %}
-                  <span class="error error_message" id="error_id_}">{{ error }}</span>
-                  {% endif %}
-                </div>
-              </div>
 
-              <div class="filter_col col-md-12">
-              <div class="form-group">
-                <label for="exampleInputEmail1">Attachment</label>
-                  <input type="file" name="lead_attachment" id="lead_attachment">
-                  {% if lead_obj.lead_attachment.count %}
-                    {% for attachment in lead_obj.lead_attachment.all %}
-                    <div id="attachment{{attachment.id}}" class="mt-2">
-                      <a target="_blank" href="{{ attachment.attachment.url }}">{{ attachment.file_name }}</a>
-                      {% if not attachment.created_by.role == 'ADMIN' or attachment.created_by.role == request.user.role %}
-                      <a class="action btn primary_btn"  onclick="remove_attachment({{attachment.id}})">X</a>
-                      {% endif %}
-                    </div>
-                    {% endfor %}
-                  {% endif %}
-                  <span class="error"></span>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <div class="filter_col col-md-12">
-                <div class="form-group">
-                  <label for="exampleInputEmail1">Website{% if lead_form.website.field.required %}<span class="error">*</span>{% endif %}</label>
-                  {{ lead_form.website }}
-                  <span class="error error_message" id="error_id_website">{{ lead_form.website.errors }}</span>
-                </div>
-              </div>
               <div class="filter_col col-md-12">
                 <div class="form-group">
                   <label for="exampleInputEmail1" >Description{% if lead_form.description.field.required %}<span class="error">*</span>{% endif %}</label>
@@ -109,80 +83,160 @@
                   <span class="error error_message" id="error_id_description">{{ lead_form.description.errors }}</span>
                 </div>
               </div>
-              {% if request.user.is_superuser or request.user.role == 'ADMIN' %}
-              <div class="filter_col col-12">
-                <div class="form-group">
-                  <label for="id_sattus">Teams{% if lead_form.teams.field.required %}<span
-                      class="error">*</span>{% endif %}</label>
-                  {{ lead_form.teams }}
-                  <span class="error" id="id__teams">{{ lead_form.teams.errors }}</span>
-                </div>
-              </div>
-              {% endif %}
-              <div class="filter_col col-md-12">
-                <div class="form-group">
-                  <label for="exampleInputEmail1">Assigned Users</label>
-                  <select class="assigned_users form-control" name="assigned_to" multiple="multiple">
-                  {% for user in users %}
-                  <option value="{{user.id}}" {% if user in lead_obj.assigned_to.all or user.id in assignedto_list %} selected="" {% endif %}>{{user.email}}</option>
-                  {% endfor %}
-                  </select>
-                  <span class="error error_message" id="error_id_assigned_to">{{ lead_form.assigned_to.errors }}</span>
-                </div>
-              </div>
-              <div class="filter_col col-md-12">
-                <div class="form-group">
-                  <label for="exampleInputEmail1"/>Status{% if lead_form.status.field.required %}<span class="error">*</span>{% endif %}</label>
-                  {{ lead_form.status }}
-                  <span class="error error_message" id="error_id_status">{{ lead_form.status.errors }}</span>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <div class="filter_col col-md-12">
-                <div class="form-group">
-                  <label for="exampleInputEmail1"/>Source{% if lead_form.source.field.required %}<span class="error">*</span>{% endif %}</label>
-                  {{ lead_form.source }}
-                  <span class="error error_message" id="error_id_source">{{ lead_form.source.errors }}</span>
-                </div>
-              </div>
-              <div class="filter_col col-md-12">
-                <div class="form-group">
-                  <label for="exampleInputEmail1" >Address</label>
-                  {{ lead_form.address_line }}
-                  <span class="error error_message" id="error_id_address_line">{{ lead_form.address_line.errors }}</span>
-                </div>
-                {{ lead_form.street }}
-                <span class="error error_message" id="error_id_street">{{ lead_form.street.errors }}</span>
-                <div class="row" style="margin-top:10px;">
-                  <div class="col-md-4">
-                    {{ lead_form.city }}
-                    <span class="error error_message" id="error_id_city">{{ lead_form.city.errors }}</span>
-                  </div>
-                  <div class="col-md-4">
-                    {{ lead_form.state }}
-                    <span class="error error_message" id="error_id_state">{{ lead_form.state.errors }}</span>
-                  </div>
 
-                  <div class="col-md-4">
-                    {{ lead_form.postcode }}
-                    <span class="error error_message" id="error_id_postcode">{{ lead_form.postcode.errors }}</span>
-                  </div>
-                  <div class="col-md-12" style="margin-top:10px;">
-                    {{ lead_form.country }}
-                    <span class="error error_message" id="error_id_country">{{ lead_form.country.errors }}</span>
-                  </div>
-                </div>
-              </div>
-              <br>
-              <div class="filter_col col-12">
-                <div class="form-group">
-                  <label>Tags</label>
-                  <div class="txt-box-div" id="tag-div"><input type="text" name="tags" id="tags_1" value="{% for t in lead_obj.tags.all %}{{t.name}}, {% endfor %}" class="tags"/>
-                  </div>
-                </div>
-              </div>
-            </div>
+
+
+                <!--<div class="form-group">-->
+                  <!--<div class="row">-->
+                    <!--<div class="filter_col col-md-6">-->
+                      <!--<label for="exampleInputEmail1" class="name" >First Name{% if lead_form.first_name.field.required %}<span class="error">*</span>{% endif %}</label>-->
+                      <!--{{ lead_form.first_name }}-->
+                      <!--<span class="error error_message" id="error_id_first_name">{{ lead_form.first_name.errors }}</span>-->
+                    <!--</div>-->
+                    <!--<div class="filter_col col-md-6">-->
+                      <!--<label for="exampleInputEmail1" class="name" >Last Name{% if lead_form.last_name.field.required %}<span class="error">*</span>{% endif %}</label>-->
+                      <!--{{ lead_form.last_name }}-->
+                      <!--<span class="error error_message" id="error_id_last_name">{{ lead_form.last_name.errors }}</span>-->
+                    <!--</div>-->
+                  <!--</div>-->
+                <!--</div>-->
+              <!--</div>-->
+              <!--<div class="filter_col col-md-12">-->
+                <!--<div class="form-group">-->
+                  <!--<label for="exampleInputEmail1" {% if request.POST.status == "converted" %} class="required" {% endif %}>Account Name{% if lead_form.account_name.field.required %}<span class="error">*</span>{% endif %}</label>-->
+                  <!--{{ lead_form.account_name }}-->
+                  <!--<span class="error error_message" id="error_id_account_name">{{ lead_form.account_name.errors }}</span>-->
+                  <!--{% if error %}-->
+                  <!--<span class="error error_message" id="error_id_}">{{ error }}</span>-->
+                  <!--{% endif %}-->
+                <!--</div>-->
+              <!--</div>-->
+              <!--<div class="filter_col col-md-12">-->
+                <!--<div class="form-group">-->
+                  <!--<label for="exampleInputEmail1">Title{% if lead_form.title.field.required %}<span class="error">*</span>{% endif %}</label>-->
+                  <!--{{ lead_form.title }}-->
+                  <!--<span class="error error_message" id="error_id_title">{{ lead_form.title.errors }}</span>-->
+                <!--</div>-->
+              <!--</div>-->
+
+              <!--<div class="filter_col col-md-12">-->
+                <!--<div class="form-group ">-->
+                  <!--<label for="exampleInputEmail1" class="required">Email Address{% if lead_form.email.field.required %}<span class="error">*</span>{% endif %}</label>-->
+                  <!--{{ lead_form.email }}-->
+                  <!--<span class="error error_message" id="error_id_email">{{ lead_form.email.errors }}</span>-->
+                  <!--{% if error %}-->
+                  <!--<span class="error error_message" id="error_id_}">{{ error }}</span>-->
+                  <!--{% endif %}-->
+                <!--</div>-->
+              <!--</div>-->
+
+              <!--<div class="filter_col col-md-12">-->
+              <!--<div class="form-group">-->
+                <!--<label for="exampleInputEmail1">Attachment</label>-->
+                  <!--<input type="file" name="lead_attachment" id="lead_attachment">-->
+                  <!--{% if lead_obj.lead_attachment.count %}-->
+                    <!--{% for attachment in lead_obj.lead_attachment.all %}-->
+                    <!--<div id="attachment{{attachment.id}}" class="mt-2">-->
+                      <!--<a target="_blank" href="{{ attachment.attachment.url }}">{{ attachment.file_name }}</a>-->
+                      <!--{% if not attachment.created_by.role == 'ADMIN' or attachment.created_by.role == request.user.role %}-->
+                      <!--<a class="action btn primary_btn"  onclick="remove_attachment({{attachment.id}})">X</a>-->
+                      <!--{% endif %}-->
+                    <!--</div>-->
+                    <!--{% endfor %}-->
+                  <!--{% endif %}-->
+                  <!--<span class="error"></span>-->
+                <!--</div>-->
+              <!--</div>-->
+            <!--</div>-->
+            <!--<div class="col-md-4">-->
+              <!--<div class="filter_col col-md-12">-->
+                <!--<div class="form-group">-->
+                  <!--<label for="exampleInputEmail1">Website{% if lead_form.website.field.required %}<span class="error">*</span>{% endif %}</label>-->
+                  <!--{{ lead_form.website }}-->
+                  <!--<span class="error error_message" id="error_id_website">{{ lead_form.website.errors }}</span>-->
+                <!--</div>-->
+              <!--</div>-->
+              <!--<div class="filter_col col-md-12">-->
+                <!--<div class="form-group">-->
+                  <!--<label for="exampleInputEmail1" >Description{% if lead_form.description.field.required %}<span class="error">*</span>{% endif %}</label>-->
+                  <!--{{ lead_form.description }}-->
+                  <!--<span class="error error_message" id="error_id_description">{{ lead_form.description.errors }}</span>-->
+                <!--</div>-->
+              <!--</div>-->
+              <!--{% if request.user.is_superuser or request.user.role == 'ADMIN' %}-->
+              <!--<div class="filter_col col-12">-->
+                <!--<div class="form-group">-->
+                  <!--<label for="id_sattus">Teams{% if lead_form.teams.field.required %}<span-->
+                      <!--class="error">*</span>{% endif %}</label>-->
+                  <!--{{ lead_form.teams }}-->
+                  <!--<span class="error" id="id__teams">{{ lead_form.teams.errors }}</span>-->
+                <!--</div>-->
+              <!--</div>-->
+              <!--{% endif %}-->
+              <!--<div class="filter_col col-md-12">-->
+                <!--<div class="form-group">-->
+                  <!--<label for="exampleInputEmail1">Assigned Users</label>-->
+                  <!--<select class="assigned_users form-control" name="assigned_to" multiple="multiple">-->
+                  <!--{% for user in users %}-->
+                  <!--<option value="{{user.id}}" {% if user in lead_obj.assigned_to.all or user.id in assignedto_list %} selected="" {% endif %}>{{user.email}}</option>-->
+                  <!--{% endfor %}-->
+                  <!--</select>-->
+                  <!--<span class="error error_message" id="error_id_assigned_to">{{ lead_form.assigned_to.errors }}</span>-->
+                <!--</div>-->
+              <!--</div>-->
+              <!--<div class="filter_col col-md-12">-->
+                <!--<div class="form-group">-->
+                  <!--<label for="exampleInputEmail1"/>Status{% if lead_form.status.field.required %}<span class="error">*</span>{% endif %}</label>-->
+                  <!--{{ lead_form.status }}-->
+                  <!--<span class="error error_message" id="error_id_status">{{ lead_form.status.errors }}</span>-->
+                <!--</div>-->
+              <!--</div>-->
+            <!--</div>-->
+            <!--<div class="col-md-4">-->
+              <!--<div class="filter_col col-md-12">-->
+                <!--<div class="form-group">-->
+                  <!--<label for="exampleInputEmail1"/>Source{% if lead_form.source.field.required %}<span class="error">*</span>{% endif %}</label>-->
+                  <!--{{ lead_form.source }}-->
+                  <!--<span class="error error_message" id="error_id_source">{{ lead_form.source.errors }}</span>-->
+                <!--</div>-->
+              <!--</div>-->
+              <!--<div class="filter_col col-md-12">-->
+                <!--<div class="form-group">-->
+                  <!--<label for="exampleInputEmail1" >Address</label>-->
+                  <!--{{ lead_form.address_line }}-->
+                  <!--<span class="error error_message" id="error_id_address_line">{{ lead_form.address_line.errors }}</span>-->
+                <!--</div>-->
+                <!--{{ lead_form.street }}-->
+                <!--<span class="error error_message" id="error_id_street">{{ lead_form.street.errors }}</span>-->
+                <!--<div class="row" style="margin-top:10px;">-->
+                  <!--<div class="col-md-4">-->
+                    <!--{{ lead_form.city }}-->
+                    <!--<span class="error error_message" id="error_id_city">{{ lead_form.city.errors }}</span>-->
+                  <!--</div>-->
+                  <!--<div class="col-md-4">-->
+                    <!--{{ lead_form.state }}-->
+                    <!--<span class="error error_message" id="error_id_state">{{ lead_form.state.errors }}</span>-->
+                  <!--</div>-->
+
+                  <!--<div class="col-md-4">-->
+                    <!--{{ lead_form.postcode }}-->
+                    <!--<span class="error error_message" id="error_id_postcode">{{ lead_form.postcode.errors }}</span>-->
+                  <!--</div>-->
+                  <!--<div class="col-md-12" style="margin-top:10px;">-->
+                    <!--{{ lead_form.country }}-->
+                    <!--<span class="error error_message" id="error_id_country">{{ lead_form.country.errors }}</span>-->
+                  <!--</div>-->
+                <!--</div>-->
+              <!--</div>-->
+              <!--<br>-->
+              <!--<div class="filter_col col-12">-->
+                <!--<div class="form-group">-->
+                  <!--<label>Tags</label>-->
+                  <!--<div class="txt-box-div" id="tag-div"><input type="text" name="tags" id="tags_1" value="{% for t in lead_obj.tags.all %}{{t.name}}, {% endfor %}" class="tags"/>-->
+                  <!--</div>-->
+                <!--</div>-->
+              <!--</div>-->
+            <!--</div>-->
             <div class="col-md-12">
               <div class="row marl buttons_row text-center form_btn_row">
                 <button  class="btn btn-default save" type="submit" id="submit_btn">Save</button>

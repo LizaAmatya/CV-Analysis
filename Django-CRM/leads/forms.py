@@ -16,6 +16,12 @@ class LeadForm(forms.ModelForm):
         if self.data.get('status') == 'converted':
             self.fields['account_name'].required = True
             self.fields['email'].required = True
+
+        self.fields['required'].required = False
+        self.fields['skill'].required = False
+        self.fields['education'].required = False
+        self.fields['experience'].required = False
+
         self.fields['first_name'].required = False
         self.fields['last_name'].required = False
         self.fields['title'].required = True
@@ -28,6 +34,15 @@ class LeadForm(forms.ModelForm):
                     'Enter phone number with country code'
             else:
                 value.widget.attrs['placeholder'] = value.label
+
+        self.fields['required'].widget.attrs.update({
+            'placeholder': 'Number of people required'})
+        self.fields['skill'].widget.attrs.update({
+            'placeholder': 'Required Skill'})
+        self.fields['education'].widget.attrs.update({
+            'placeholder': 'Required Education'})
+        self.fields['experience'].widget.attrs.update({
+            'placeholder': 'Required Experience'})
 
         self.fields['first_name'].widget.attrs.update({
             'placeholder': 'First Name'})
@@ -56,7 +71,7 @@ class LeadForm(forms.ModelForm):
 
     class Meta:
         model = Lead
-        fields = ('assigned_to', 'first_name',
+        fields = ('assigned_to', 'first_name', 'skill','required', 'education', 'experience',
                   'last_name', 'account_name', 'title',
                   'phone', 'email', 'status', 'source',
                   'website', 'description',
